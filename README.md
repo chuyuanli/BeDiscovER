@@ -38,11 +38,13 @@ Each task directory contains its own `README.md` with dataset-specific details, 
 
 ## Loading the Data
 
-Use `load_data.py` to load the processed test sets.
+Use `load_data.py` to load the processed test sets, for instance:
 
 ```bash
-python load_data.py --task dm --dataset_names just otherwise --dataset_fracs 1.0 1.0 --split test
-python load_data.py --task tr --dataset_names tbd-ee tdd-man tot-arithmetic --dataset_fracs 1.0 1.0 1.0 --split test
+python load_data.py --task dm --dataset_names just --dataset_fracs 1.0 --split test
+python load_data.py --task dm --dataset_names otherwise --dataset_fracs 1.0 --split test
+python load_data.py --task tr --dataset_names tbd-ee tdd-man --dataset_fracs 1.0 1.0 --split test
+python load_data.py --task tr --dataset_names tot-arithmetic --dataset_fracs 1.0 --split test
 python load_data.py --task dr --dataset_names disrpt25 --dataset_fracs 0.2 --split test
 python load_data.py --task so --dataset_names aan-abstract arxiv-abstracts nips-abs nsf roc sind-captions wiki-movies --dataset_fracs 0.3 0.05 1.0 0.08 0.09 0.16 0.25 --split test
 python load_data.py --task ddp --dataset_names stac molweni msdc --dataset_fracs 1.0 1.0 1.0 --split test
