@@ -97,6 +97,7 @@ def load_raw_data(task, dataset_dir, dataset_name, subset, num=0):
 
 
 def load_data(args):
+            
     if args.task == 'dr' and args.dataset_names[0] == 'disrpt25':
         args.dataset_names = DISRPT_TEST_NAMES
         if args.dataset_fracs[0] == 1.0:
@@ -106,12 +107,14 @@ def load_data(args):
             args.dataset_fracs = list(DISRPT_FRAC_MAP.values())
             assert list(DISRPT_FRAC_MAP.keys()) == args.dataset_names
             print("Set disrpt25 dataset fracs to 20%.")
-        
+    
+    test_all = []
     for dataset_name, dataset_frac in zip(args.dataset_names, args.dataset_fracs):
         test_data = load_raw_data(args.task, args.data_root, dataset_name, args.split)
         test_data = test_data[:int(dataset_frac * len(test_data))]
+        test_all += test_data
 
-    return test_data
+    return test_all
 
 
 if __name__ == "__main__":
@@ -121,6 +124,7 @@ if __name__ == "__main__":
                         dr: discourse relation recognition (DISRPT25 version);
                         dm: discourse marker sense recognition (otherwise, just);
                         ddp: dialogue discourse parsing (stac, molweni, msdc)""")
+    parser.add_argument("--data_root", type=str, default="data")
     parser.add_argument("--dataset_names", type=str, nargs='+', default=[''])
     parser.add_argument("--dataset_fracs", type=float, nargs='+', default=[1.0])
     parser.add_argument("--split", type=str, default='test')
