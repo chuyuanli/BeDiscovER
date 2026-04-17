@@ -1,0 +1,1766 @@
+[
+    {
+        "id": 0,
+        "arg1": "\"When They See Us\" should inspire people to recognize that crime-control policies and the racist ideas behind them must change .",
+        "arg2": "the history of the Central Park Five is likely to repeat itself.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 1,
+        "arg1": "18 Quartet in B flat K.172, showing the end of first movement where Mozart has had to cancel one bar and cram the rewritten version onto handwritten staves at the end of the page.",
+        "arg2": "the score is remarkably clear, indicating that it may possibly be a fair copy.",
+        "gold": "Exception"
+    },
+    {
+        "id": 2,
+        "arg1": "A close-up mode of this camera will give sharp results from a subject only two feet away",
+        "arg2": "I thought the specifications somewhat limited for a camera of this price.",
+        "gold": "Exception"
+    },
+    {
+        "id": 3,
+        "arg1": "A low range of hills lifted in the north, yellow, rumpled, threadbare",
+        "arg2": "the land was flat and hot, studded with dull stones.",
+        "gold": "Exception"
+    },
+    {
+        "id": 4,
+        "arg1": "A maintenance man walked by .",
+        "arg2": "the only sound came from a young street musician standing halfway across Seattle Center .",
+        "gold": "Exception"
+    },
+    {
+        "id": 5,
+        "arg1": "A mixture of coarse sand with peat or loam is sufficient to cultivate the plant.",
+        "arg2": "fine gravel medium containing the tank detritus is adequate.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 6,
+        "arg1": "A natural and obvious figure as a blue-collar icon is former Vice President Joe Biden, who at age 75 remains indecisive about running again .",
+        "arg2": "the party bench of possible 2020 presidential nominees as of now is thin, as those mid-term elections loom more than anything else as a referendum on Donald Trump.",
+        "gold": "Exception"
+    },
+    {
+        "id": 7,
+        "arg1": "A respectful adaptation must consider details such as local speech and culture, translated into a more universal dimension for a global audience .",
+        "arg2": "the series will fall flat",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 8,
+        "arg1": "A state law allows for a municipal election to be '' held concurrently with '' a statewide general election",
+        "arg2": "city elections can not be held until at least 30 days after a statewide election.",
+        "gold": "Exception"
+    },
+    {
+        "id": 9,
+        "arg1": "A strong ruler used not only a complex administrative system inherited from his predecessors , but also an ability to keep a significant number of his chief men moderately well-rewarded , or charmed , or cowed .",
+        "arg2": "their existence might be a source of danger , for they had followings of their own which were likely to support them against the king in a political crisis .",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 10,
+        "arg1": "A third of the recent records relate to birds found dead or dying inland after severe gales.",
+        "arg2": "the species is strictly maritime.",
+        "gold": "Exception"
+    },
+    {
+        "id": 11,
+        "arg1": "A uniformed policeman stood under a lamp, his hands clasped behind his back.",
+        "arg2": "the street was deserted.",
+        "gold": "Exception"
+    },
+    {
+        "id": 12,
+        "arg1": "Actually, it is deficit spending by the monetary sovereign that allows domestic saving .",
+        "arg2": "all real capital will eventually be owned by the money lenders.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 13,
+        "arg1": "After all, you have your duties as my maid of dishonor to carry out .",
+        "arg2": "they fall to Sabrina",
+        "gold": "Consequence"
+    },
+    {
+        "id": 14,
+        "arg1": "After the native speaker language partner helps the learner of Chinese complete his/her weekly communication task, a similar amount of time should be committed to practising English .",
+        "arg2": "the native speaker language partners will gradually lose their enthusiasm in the WeChat interactions.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 15,
+        "arg1": "Again, those younger than 18 can test online through the American Safety Council .",
+        "arg2": "you must take the driver license test in person at an FL DHSMV office at an FL DHSMV office.",
+        "gold": "Exception"
+    },
+    {
+        "id": 16,
+        "arg1": "All affected taxpayers should take this opportunity to influence the UK taxation system",
+        "arg2": "we will be left with a system at the taxpayer's expense.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 17,
+        "arg1": "All children should be enabled to attain a full command of the English language, both spoken and written.",
+        "arg2": "they will be disadvantaged, not only in their study of other subjects, but also in their working life.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 18,
+        "arg1": "All of us, the overweight as well as the slim, have some body controls which limit our eating capacity.",
+        "arg2": "some people would indeed quite literally eat themselves to death",
+        "gold": "Consequence"
+    },
+    {
+        "id": 19,
+        "arg1": "Although both studies indicate that teachers can use WeChat to provide oral feedback on their students' oral production, students' target language proficiency must be at advanced level for them to understand such oral feedback .",
+        "arg2": "the oral feedback given in the target language would mean nothing if students can not comprehend it.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 20,
+        "arg1": "Amber caught the brief frown on Katella's face as she gave Tony the traditional brief congratulatory hug",
+        "arg2": "it was all celebratory.",
+        "gold": "Exception"
+    },
+    {
+        "id": 21,
+        "arg1": "An Arab ambassador said he was bruised, looked badly shaken and needed at least two weeks to recover.",
+        "arg2": "he was his usual theatrical self.",
+        "gold": "Exception"
+    },
+    {
+        "id": 22,
+        "arg1": "An area of more widespread precipitation is mainly to our south and east, but it will continue to affect portions of Southern Maryland over the next few hours .",
+        "arg2": "a couple of showers are possible through later this evening.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 23,
+        "arg1": "I want to know exactly where she is.",
+        "arg2": "we could search up there for a year and we would n't find her .",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 24,
+        "arg1": "That's why you need to know your plants .",
+        "arg2": "it goes wrong right away.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 25,
+        "arg1": "And there will be no true liberation unless we succeed in extricating ourselves from the general theme of Palestine in order to explore the human in this theme .",
+        "arg2": "our literature will only be a long political document.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 26,
+        "arg1": "And you'd better hope we succeed.",
+        "arg2": "I've no doubt you'll find yourself charged as an accessory to murder.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 27,
+        "arg1": "Anger needs expression and resolution within a manageable framework of time.",
+        "arg2": "resentments build up, and anger eventually consumes us with loathing",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 28,
+        "arg1": "Any direct manipulation of these genes would need to prevent interference with normal, healthy day-today functions and roles .",
+        "arg2": "those with the engineered change would die early,",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 29,
+        "arg1": "Article 254 refers to how the annual accounts should be prepared .",
+        "arg2": "the Spanish accounting law determines that the annuals accounts should be written with clarity, the supplied financial information should be comprehensible and be useful to help several stockholders to make economic decisions.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 30,
+        "arg1": "As products come and go, everyone needs to plan and execute in lock-step .",
+        "arg2": "the site looks disjointed and unprofessional.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 31,
+        "arg1": "As they approached it, Sam guessed at the presence of another staircase further on where the passage disappeared back into its own darkness.",
+        "arg2": "he had completely lost his sense of direction.",
+        "gold": "Exception"
+    },
+    {
+        "id": 32,
+        "arg1": "Being a good Catholic does n't require that you be a Republican, but it does require that you uphold the '' pro-life '' teachings of the Church .",
+        "arg2": "don't call yourself a Catholic just because you attend Mass.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 33,
+        "arg1": "biggest thing about stairs is it's a little scary because you're looking down",
+        "arg2": "it's easy as you found out yesterday.",
+        "gold": "Exception"
+    },
+    {
+        "id": 34,
+        "arg1": "Both the state's then-Premier Colin Barnett and its tourism council insisted that, despite the highest deficit in history, it had to plow on .",
+        "arg2": "visitors (and their dollars) would be deterred by the sight of unfinished business",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 35,
+        "arg1": "But he must have known about this loophole beforehand .",
+        "arg2": "It's a bunch of, you know, coincidences that let a guilty man go free.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 36,
+        "arg1": "But he really needs to show some crispness in this upcoming debate that he really lacked, especially in that first debate, when Democrats are really looking for someone who can take on Trump .",
+        "arg2": "they're going to look elsewhere",
+        "gold": "Consequence"
+    },
+    {
+        "id": 37,
+        "arg1": "But it was essential that people try to connect, if only for a few hours, that they never give up on the need for contact .",
+        "arg2": "we would become a society of strangers.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 38,
+        "arg1": "But of course the foam system had better switch itself off automatically at low speeds.",
+        "arg2": "every traffic jam will gradually vanish beneath a rising tide of its own foamy output.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 39,
+        "arg1": "But the NZRFU will now, having made such strong demands of South Africa, have to undertake a similarly intense drug-screening process in New Zealand.",
+        "arg2": "it cannot hope to command the moral high ground.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 40,
+        "arg1": "But the problem was, I needed to get back to the airport, and I was n't sure I could make it back to the hotel to catch my flight .",
+        "arg2": "I would have been game.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 41,
+        "arg1": "But you gotta go in strong when you're dealing with rich people .",
+        "arg2": "they'll prey on you.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 42,
+        "arg1": "Caring about biomimicry requires caring about economic development",
+        "arg2": "we can't hope for better products and safer methods.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 43,
+        "arg1": "Certainly, something drastic needs to be done to spread literacy.",
+        "arg2": "by the turn of the century, India will surely be among the world's least literate countries.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 44,
+        "arg1": "Clearly, he resented Gavin but also had empathy towards him .",
+        "arg2": "he wouldn't have lent him money in the first place.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 45,
+        "arg1": "Congregational questionnaires can be very threatening to the individual and should be used only in churches where there is a high degree of cohesion and commitment to agreed goals.",
+        "arg2": "they may prove divisive and generate defensive attitudes.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 46,
+        "arg1": "Consumers should be told the whole truth",
+        "arg2": "it amounts to fraud.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 47,
+        "arg1": "Credit notes bought with francs, marks and dollars win relatives access to government caches of whisky, butter, chocolate and ground coffee.",
+        "arg2": "rationing restricts Romanians to one kilo of meat a month and half a loaf of bread a day.",
+        "gold": "Exception"
+    },
+    {
+        "id": 48,
+        "arg1": "Darius Slay had a nice interception.",
+        "arg2": "I have bad news for you.",
+        "gold": "Exception"
+    },
+    {
+        "id": 49,
+        "arg1": "Data suggests that no general favorable genetic disposition of male students towards mathematics and/or science exists.",
+        "arg2": "patterns would be consistent across countries and time.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 50,
+        "arg1": "deep down you know it's not the honorable way to do it .",
+        "arg2": "you would've done it already.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 51,
+        "arg1": "Disabled passengers should travel by Duchesse Anne if possible, instead of Armorique, which has restricted passageways.",
+        "arg2": "both ships offer adequate but not exciting service and facilities.",
+        "gold": "Exception"
+    },
+    {
+        "id": 52,
+        "arg1": "During a boom we can afford to ignore our little mistakes , but when money is tight we only buy make-up that we know we will use .",
+        "arg2": "it seems , we do n't buy it at all .",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 53,
+        "arg1": "Dustin and Anne often had meals with Colin Welland",
+        "arg2": "Dustin was found swapping quotations with Irish actor T. P. McKenna in the bar or playing endless poker games.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 54,
+        "arg1": "Each night she spoke to a waiter to order a meal",
+        "arg2": "she could not remember when she had last spoken to anyone.",
+        "gold": "Exception"
+    },
+    {
+        "id": 55,
+        "arg1": "Economists expected an additional 125,000 jobs in today's report, so this did beat expectations .",
+        "arg2": "it's not terribly remarkable, and the bump upward in the jobless rate more or less counters whatever positive impact the jobs addition has.",
+        "gold": "Exception"
+    },
+    {
+        "id": 56,
+        "arg1": "Enforcement requires an enforcer .",
+        "arg2": "the constitution is just a lot of precatory stuff, to be followed as the legislature and executive deem best.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 57,
+        "arg1": "Entree choices like grilled red mullet or prawns, when available, should be taken advantage of.",
+        "arg2": "it's the inevitable kebab — chicken, if possible.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 58,
+        "arg1": "Everywhere she looked were mats of the bacteria that broke down the lipids in the whale's skeleton",
+        "arg2": "they were alone.",
+        "gold": "Exception"
+    },
+    {
+        "id": 59,
+        "arg1": "Exceptions to this general rule do occur -- and when they do, we'll take special care to let you know .",
+        "arg2": "it's best to focus your efforts on those whom you have the direct ability to email a copy of",
+        "gold": "Exception"
+    },
+    {
+        "id": 60,
+        "arg1": "The ‘conference’ is the sympathetic review of family plans, objectives, differences of opinion, and any issues which might be ready to emerge full blown into a conflict. Sometimes this happens spontaneously and regularly in a family without the need for extra organisation.",
+        "arg2": "such times can be worked out in advance and become a first call on everyone's schedule.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 61,
+        "arg1": "For a summary of the novels and instructions to send it to your i-pad or Kindle, click this link .",
+        "arg2": "you can just read them on your computer using your Acrobat Reader program.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 62,
+        "arg1": "For accountancy reasons and facilitating identification of stock usage, stores should be exclusive to the area or cost centre serviced.",
+        "arg2": "stock may be withdrawn to many areas without proper records being kept.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 63,
+        "arg1": "For such an order to work, it must be autonomous, able to enforce its rules independent of the hegemon's wishes .",
+        "arg2": "there is no reason for other countries to believe that the order will ever limit the hegemon's power.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 64,
+        "arg1": "For the artistically inclined the flea markets of Paris are full of interest and are, of course, totally free.",
+        "arg2": "wandering the boulevards, discovering unspoilt backwaters or just watching the people is as much fun as more expensive pastimes.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 65,
+        "arg1": "For the sake of British science, we should hand the problem to Foreign Offices to deal with this.",
+        "arg2": "we put the continuity of vital work in jeopardy by failing to shelter it from the winds of international currency exchanges.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 66,
+        "arg1": "Fortunately, Mr Hill was in Truro Hospital at the time",
+        "arg2": "he might have suffered the same fate as Sheila Brayford.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 67,
+        "arg1": "Free accommodation is available at the Lodge",
+        "arg2": "the convenient Bridge of Orchy Hotel has a bunkhouse, posh B&B, good food.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 68,
+        "arg1": "Free speech has to be for everyone, not just the majority .",
+        "arg2": "it's not free or protected speech.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 69,
+        "arg1": "Free trade, not economic meddling, should be the function of government regulation.",
+        "arg2": "the tolerant British public is paying three times over for its cheap food",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 70,
+        "arg1": "Generally, eating problems can be avoided by being flexible with your puppy from the start, varying the eating location, alternating types of dog food, and changing feeding times.",
+        "arg2": "be prepared for your dog to become accidentally conditioned by circumstances that lend new significance to the sound of the dinner bell.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 71,
+        "arg1": "Given that redistribution is a characteristic of the social services, the general presumption must be that they will be rendered only on evidence of need",
+        "arg2": "the process is a wasteful and purposeless collection and issue of resources",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 72,
+        "arg1": "Good thing we had these clothes in the lost and found .",
+        "arg2": "you would've had to go home and change.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 73,
+        "arg1": "Having either a fixed period for copyright starting at publication or having a registration requirement with current contact details in a publicly open database is an extremely important part of a healthy copyright regime .",
+        "arg2": "it can become extremely difficult to discover if/when a work falls into the public work falls into the public domain",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 74,
+        "arg1": "He knows nothing about the Theatre, you understand.",
+        "arg2": "he would never have threatened anything so ridiculous.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 75,
+        "arg1": "He left when I was 12 and I ran into him once.",
+        "arg2": "I don't know anything.",
+        "gold": "Exception"
+    },
+    {
+        "id": 76,
+        "arg1": "He only wore uniform when going on leave (in order to get a cheap fare).",
+        "arg2": "he concealed the fact that he was in the army as far as possible.",
+        "gold": "Exception"
+    },
+    {
+        "id": 77,
+        "arg1": "He spent only two years at school.",
+        "arg2": "he was educated at home",
+        "gold": "Exception"
+    },
+    {
+        "id": 78,
+        "arg1": "He was determined to keep his private life private",
+        "arg2": "nothing was changed as a result of being world champion",
+        "gold": "Exception"
+    },
+    {
+        "id": 79,
+        "arg1": "However, where boundaries have not yet been defined it is important that decisions should ensure the exclusion of land which might be needed for development at some future date.",
+        "arg2": "there is a risk that encroachment may have to be permitted, thus devaluing the Green Belt concept.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 80,
+        "arg1": "I hope you don't mind if I continue my workout while we talk .",
+        "arg2": "I'll never get it done.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 81,
+        "arg1": "I know that you are braver than you think",
+        "arg2": "I wouldn't have hired you.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 82,
+        "arg1": "I know you're still a good person.",
+        "arg2": "you wouldn't have risked everything coming back here to save us all.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 83,
+        "arg1": "I like a nice curry and I love chips.",
+        "arg2": "I'll nibble on fruit or something to convince myself that I'm eating well!",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 84,
+        "arg1": "I like you too .",
+        "arg2": "we wouldn't be friends.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 85,
+        "arg1": "I need to rekindle the fire in my heart... To create that which has not been before .",
+        "arg2": "there's no point... No point to my life.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 86,
+        "arg1": "I need to scan it .",
+        "arg2": "the system doesn't know it's missing, and it never gets reordered.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 87,
+        "arg1": "I remember that she asked me to guess what was inside a sort of pasty served to her on Thásos, and that I got it right at the first guess: macaroni.",
+        "arg2": "she had only praise for the beautiful island.",
+        "gold": "Exception"
+    },
+    {
+        "id": 88,
+        "arg1": "I think he actually should be rooting for his competitors to do deals .",
+        "arg2": "he may be at a competitive disadvantage",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 89,
+        "arg1": "I think him and Marlene have something going on",
+        "arg2": "they're just really close",
+        "gold": "Consequence"
+    },
+    {
+        "id": 90,
+        "arg1": "I think that out of an impulsive decision I think that the president made .",
+        "arg2": "the situation was cold and calculated",
+        "gold": "Exception"
+    },
+    {
+        "id": 91,
+        "arg1": "I think you can still swap these two paragraphs",
+        "arg2": "it's ready to go.",
+        "gold": "Exception"
+    },
+    {
+        "id": 92,
+        "arg1": "I will take two pills if I get a pain across the chest",
+        "arg2": "I seldom touch them.",
+        "gold": "Exception"
+    },
+    {
+        "id": 93,
+        "arg1": "I would stick up for our values, make sure that we defend our allies, protect the lives of our fellow Americans, but do that peacefully where we can .",
+        "arg2": "we will produce more wars",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 94,
+        "arg1": "In a Mercedes , a marque known for providing an almost absurd amount of legroom for its drivers , being impossible to find an ideal seat position when you are much over six foot is a bad fault .",
+        "arg2": "you are pampered like only a Mercedes driver can be .",
+        "gold": "Exception"
+    },
+    {
+        "id": 95,
+        "arg1": "In case a foreign national made out a Voluntary medical insurance policy on his own account, he/she is to submit it to the employer at the time of drafting the employment contract, pursuant to Art. 327.2 of the Code .",
+        "arg2": "a foreigner, temporarily residing in the Russian Federation, can not be accepted for employment.",
+        "gold": "Exception"
+    },
+    {
+        "id": 96,
+        "arg1": "In fact, I need such a distraction .",
+        "arg2": "I will also go mad.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 97,
+        "arg1": "In order to do this, you have to believe that the change is possible .",
+        "arg2": "we wouldn't be fighting for it.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 98,
+        "arg1": "In the end Charman had to go.",
+        "arg2": "the group might not have survived.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 99,
+        "arg1": "In the hazy distance there were people riding horses,",
+        "arg2": "there was nobody.",
+        "gold": "Exception"
+    },
+    {
+        "id": 100,
+        "arg1": "In the patients , stool frequency per 3 days was inversely related to bile acid absorption.",
+        "arg2": "there were no significant relationships between the frequency of bowel actions or stool weight and other parameters of gastrointestinal function in either the patients or the control subjects .",
+        "gold": "Exception"
+    },
+    {
+        "id": 101,
+        "arg1": "It is all in our interests to see that credit is used wisely and prudently.",
+        "arg2": "our credit society could easily go sour on us, with repercussions for the country's industry and commerce which would not be to our benefit.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 102,
+        "arg1": "It is because of you that I am living here in peace.",
+        "arg2": "I would have been sent back to my country",
+        "gold": "Consequence"
+    },
+    {
+        "id": 103,
+        "arg1": "It is most essential that I should be present at my opera.",
+        "arg2": "my work would be quite unrecognizable — for very strange things happen here.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 104,
+        "arg1": "It is therefore vital that each team nominates an observer to monitor what is happening in the arena",
+        "arg2": "if the team doesn't show up after one or two public announcements, they may well be disbarred.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 105,
+        "arg1": "It is very important to have an accurate diagnosis as quickly as possible, without waiting too long .",
+        "arg2": "the pain can burn itself into the '' pain memory '' and become chronic",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 106,
+        "arg1": "It was only a decade later that Jackie began to learn how to listen to others.",
+        "arg2": "it was always what Jackie said that counted.",
+        "gold": "Exception"
+    },
+    {
+        "id": 107,
+        "arg1": "It will have to be regulated or better policed",
+        "arg2": "this might happen again.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 108,
+        "arg1": "It worked as long as there was a strong wind.",
+        "arg2": "a tip would stall, lose lift, and the kite flipped over and fell.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 109,
+        "arg1": "It's a good thing to ride horses at home and not at the racecourse.",
+        "arg2": "you might have been much more badly hurt.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 110,
+        "arg1": "It's clear this president has not read the report .",
+        "arg2": "he couldn't say the things that he says",
+        "gold": "Consequence"
+    },
+    {
+        "id": 111,
+        "arg1": "Language (the practical) must as a matter of urgency be separated from literature and literary criticism (the theoretical).",
+        "arg2": "both sides of the subject will suffer.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 112,
+        "arg1": "Large areas of still water used for recreation are likely to be routinely closed in the summer months in order to protect the public from toxic poisoning.",
+        "arg2": "they risk the same fate as 20 officer cadets who were ill, two seriously, after canoeing on a lake in Leek, Staffordshire, this summer.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 113,
+        "arg1": "Lincoln and his allies must work quickly before the Civil War ends .",
+        "arg2": "trying to get the amendment through a Congress with newly re-admitted Southern states could mean outright defeat.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 114,
+        "arg1": "Loopy Lil's new smile of regular gleaming teeth was the only change.",
+        "arg2": "everything was reassuringly the same.",
+        "gold": "Exception"
+    },
+    {
+        "id": 115,
+        "arg1": "Many people have worked hard over the last two decades to develop relationships between education and business — the expertise which this represents needs to be respected and harnessed.",
+        "arg2": "there is a real risk of innovation producing nothing that is substantially changed.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 116,
+        "arg1": "Mexico is going to have to do something .",
+        "arg2": "I'm closing the border.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 117,
+        "arg1": "More time should have been given to expert uncertainties and disagreements about the nature of the disease",
+        "arg2": "it was hard to fault this sensitive examination of the interface between mental illness and the law.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 118,
+        "arg1": "Mr Bush threatened to veto the budget unless it contained real cuts.",
+        "arg2": "Congress would have to face the consequences of automatic across-the-board cuts under the budget deficit reduction law.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 119,
+        "arg1": "New large city stations were built at Toledo (1950) and New Orleans (1954), but in a totally undistinguished style.",
+        "arg2": "bus shelters were provided when small stations were knocked or burned down.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 120,
+        "arg1": "Nikon needs to address these two issues immediately .",
+        "arg2": "they are misrepresenting the camera they have been pushing.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 121,
+        "arg1": "None of us has much, so we ought to put what we have together in case one of us ever needs anything important.",
+        "arg2": "it just gets spent in one trip down at the village shop",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 122,
+        "arg1": "Normally a company buying insurance against political upheavals or nationalisation is required by its insurer to keep this cover a dark secret from the government of the country in question.",
+        "arg2": "it might decide to nationalise the foreign firm's assets on its soil knowing that the company will just be able to claim the compensation anyway.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 123,
+        "arg1": "Northam's office restricted the interview to 30 minutes and stipulated that neither the audio nor a full transcript of the interview be released .",
+        "arg2": "there were no limitations on what could be asked or published.",
+        "gold": "Exception"
+    },
+    {
+        "id": 124,
+        "arg1": "Now I stayed in a small hotel near Piazza della Signoria and ate in restaurants .",
+        "arg2": "it was the same overwhelming experience: exhausting, exciting, daunting, dispiriting, stimulating, inspiring.",
+        "gold": "Exception"
+    },
+    {
+        "id": 125,
+        "arg1": "Of course I mean it.",
+        "arg2": "I wouldn't ask.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 126,
+        "arg1": "Of course they're ready to run.",
+        "arg2": "your trainer wouldn't have entered them for the races",
+        "gold": "Consequence"
+    },
+    {
+        "id": 127,
+        "arg1": "Often buffaloes were sufficient to soften and muddy the soil.",
+        "arg2": "a simple plough was used.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 128,
+        "arg1": "Old law-givers said that the father of a menstruating girl should marry her off immediately.",
+        "arg2": "each month the girl menstruates the father incurs the sin of infanticide.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 129,
+        "arg1": "Once a month his commander, Nam, would visit and update his orders.",
+        "arg2": "he was totally responsible for his men, and for planning ambushes on Vietnamese or Phnom Penh forces along the road.",
+        "gold": "Exception"
+    },
+    {
+        "id": 130,
+        "arg1": "One simple rule to follow is that you shouldn't ever introduce matters which are not made perfectly clear in the course of the story.",
+        "arg2": "the reader is left wondering ‘Who on earth is she or he?’",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 131,
+        "arg1": "Only an occasional casual flicker of light low in the sky showed that somewhere the enormous battle was going on.",
+        "arg2": "the darkness was intense",
+        "gold": "Exception"
+    },
+    {
+        "id": 132,
+        "arg1": "Our transactive memories require that all the people we meet, all the specialists, in all their varieties, are present .",
+        "arg2": "the system will not work.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 133,
+        "arg1": "Patchy fog and maybe a few pockets of drizzle will be lurking in the morning hours, especially south and east of the District .",
+        "arg2": "it’s mostly cloudy and muggy with highs in the upper 70s to near 80 and winds out of the east/northeast at 10 mph",
+        "gold": "Exception"
+    },
+    {
+        "id": 134,
+        "arg1": "Perhaps the only surprise about his speech Saturday was that it lasted just nine minutes .",
+        "arg2": "he addressed the crowd with a preacher's vim and vigor.",
+        "gold": "Exception"
+    },
+    {
+        "id": 135,
+        "arg1": "Planning a conference tomorrow will satisfy the evening papers.",
+        "arg2": "they'll go on nagging today.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 136,
+        "arg1": "Producers are explaning that Jason Mewes is doing incredible work and getting arrested was the best thing that could have happened to his career .",
+        "arg2": "they never would have thought of him for the role.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 137,
+        "arg1": "Put simply, the Republican Party can not win unless it becomes the party of aspiration for younger Americans and Hispanic Americans .",
+        "arg2": "it will soon become a retirement community for aging conservatives.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 138,
+        "arg1": "Schools will have to learn to look across the whole curriculum, to identify where and by what means an individual attainment target can best be taught and assessed.",
+        "arg2": "both they and their students will be seriously overloaded.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 139,
+        "arg1": "Scrambling might cause a problem when using it",
+        "arg2": "this is an excellent warm jacket",
+        "gold": "Exception"
+    },
+    {
+        "id": 140,
+        "arg1": "She was nervous .",
+        "arg2": "she wouldn't be rambling.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 141,
+        "arg1": "So one factor in the Fed's decision was, they knew that they had to cut rates now .",
+        "arg2": "the dollar might get too strong.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 142,
+        "arg1": "So we need you to throw the cat out the window .",
+        "arg2": "we can't play our music.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 143,
+        "arg1": "So, I need this piece of knowledge so that we don't misinterpret things in there .",
+        "arg2": "this is gon na take 10 times as long.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 144,
+        "arg1": "Some of this noise turns up unexpectedly when cruising around the motorway limit",
+        "arg2": "the Legacy is a decent but not notably quiet cruiser",
+        "gold": "Exception"
+    },
+    {
+        "id": 145,
+        "arg1": "Some old mine buildings in the distance, some gravel pits.",
+        "arg2": "just shingle, grey and orange, and a soft wind tugging at the heads of weeds.",
+        "gold": "Exception"
+    },
+    {
+        "id": 146,
+        "arg1": "Some said that they had learnt more new words outside classroom by chatting with native speakers and others expressed the feeling that as a language learner they liked to be pushed out of their comfort zone or being '' forced '' to speak Chinese in order to complete the compulsory task .",
+        "arg2": "one could not improve their target language skills as expected.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 147,
+        "arg1": "Someone lying in the gloom of a lower bunk was reading a book.",
+        "arg2": "the room was empty.",
+        "gold": "Exception"
+    },
+    {
+        "id": 148,
+        "arg1": "Sometimes family members rely on attorneys or accountants to help with these detailing filings, which adds significant costs .",
+        "arg2": "the family guardian must be responsible for knowing when to submit the report and accounting, must determine which court form to use, and must try to meet the court's requirements, usually with little guidance.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 149,
+        "arg1": "Sometimes fresh cow-dung would be collected for plastering the house, for rituals, or for sealing the clay fermentation jars.",
+        "arg2": "they were left and trampled down",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 150,
+        "arg1": "Sometimes you have to erase people from your life .",
+        "arg2": "they'll use you up.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 151,
+        "arg1": "Still, somebody loved her.",
+        "arg2": "she wouldn't be here.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 152,
+        "arg1": "Still, there seems to be a growing awareness that something must change .",
+        "arg2": "it's just a matter of time before the next round of violence.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 153,
+        "arg1": "Students and parents need to encourage the university to reduce their tuitions.",
+        "arg2": "as costs continue to rise, students will no longer be able to pay their debts",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 154,
+        "arg1": "Thanks to Ma really, he thought, and grinned, thanks to her fall and not being able to manage the washing herself.",
+        "arg2": "he'd never have met Florence Ames.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 155,
+        "arg1": "Despite its age there are few of the early features of Patrington remaining. The basic street pattern is no doubt as old as the village itself and the street names are mostly of ancient origin.",
+        "arg2": "what can be seen of Patrington today is of the 18th century or later.",
+        "gold": "Exception"
+    },
+    {
+        "id": 156,
+        "arg1": "The Bell curve captures well variables that don't deviate much from the mean .",
+        "arg2": "it does not work.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 157,
+        "arg1": "the best choice would probably be the bean burrito",
+        "arg2": "you would do well to keep your eyes fixed on the grilled fish and chicken, boring as they may seem in comparison.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 158,
+        "arg1": "The best thing about Wired was Michael Chiklis's touching and convincing performance in the central role of John Belushi.",
+        "arg2": "there seemed little to commend it.",
+        "gold": "Exception"
+    },
+    {
+        "id": 159,
+        "arg1": "The camcorder on the right is bigger and heavier and is designed to be supported on the shoulder",
+        "arg2": "although the body-shapes are very different, these camcorders are operated in much the same way.",
+        "gold": "Exception"
+    },
+    {
+        "id": 160,
+        "arg1": "the Chinese use mud only as an immediate, practical necessity.",
+        "arg2": "mud continues to denote low status as elsewhere in the world.",
+        "gold": "Exception"
+    },
+    {
+        "id": 161,
+        "arg1": "The country requires policies that are capable of steering the demographic transition .",
+        "arg2": "the population age structure will impede the country's growth and stability.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 162,
+        "arg1": "The delay in ADHD was most prominent in regions at the front of the brain's outer mantle (cortex), important for the ability to control thinking, attention and planning .",
+        "arg2": "both groups showed a similar back-to-front wave of brain maturation with different areas peaking in thickness at different times.",
+        "gold": "Exception"
+    },
+    {
+        "id": 163,
+        "arg1": "The doctor may provide a leaflet explaining how to register the death and should be able to advise where to do so.",
+        "arg2": "funeral directors keep detailed lists, or offices are listed in the phone book, or the Citizens Advice Bureau can advise.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 164,
+        "arg1": "the ends of the shoulder harness adjustment straps were unfinished",
+        "arg2": "no complaints about the finish of a strongly-made product.",
+        "gold": "Exception"
+    },
+    {
+        "id": 165,
+        "arg1": "The finish is pocked and the tub is rusting .",
+        "arg2": "it is a perfect 1955 tub and we want to keep all the lovely pink tile!",
+        "gold": "Exception"
+    },
+    {
+        "id": 166,
+        "arg1": "The free version of Curve offers cashback for only the first 90 days .",
+        "arg2": "Curve Metal customers will earn 1% instant cashback on purchases at six retailers at a time, and can receive Curve Cash for an unlimited period;",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 167,
+        "arg1": "The front door had been replaced by a door made of synthetics that did not require painting .",
+        "arg2": "the house-and the whole neighborhood-hadn't changed much.",
+        "gold": "Exception"
+    },
+    {
+        "id": 168,
+        "arg1": "The full sum invested is returned at maturity or on the investor's death, if earlier.",
+        "arg2": "bonds can usually be surrendered within the period, but the value is not then guaranteed.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 169,
+        "arg1": "The gaps must be small enough to allow animals to move from one to another .",
+        "arg2": "they never could have evolved to take advantage of these conditions.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 170,
+        "arg1": "The guidebook is edited by Outdoor Action's editor Laura McCaffrey and we are offering it at a very special price.",
+        "arg2": "there's a limited selection at the Travel Bookshop Ltd",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 171,
+        "arg1": "The House of Representatives could try again next week .",
+        "arg2": "it will have to wait until it returns to work on June 4.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 172,
+        "arg1": "The next thing is to print pictures of the missing dog and hang them up locally .",
+        "arg2": "it's just a waiting game to see if someone turns her in",
+        "gold": "Exception"
+    },
+    {
+        "id": 173,
+        "arg1": "The nose prevents entry of dust particles .",
+        "arg2": "these particles could cause many problems for the smooth flow of gases in and out of the lungs.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 174,
+        "arg1": "The obsession with female chastity before marriage and faithfulness afterward that is pervasive in most cultures stems from men ’ s need to ensure that children their wives present them with are their own .",
+        "arg2": "they risk investing their time and resources on the transmitter of someone else ’ s genes",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 175,
+        "arg1": "The only fee online bank Simple charges is for foreign debit card use",
+        "arg2": "you won't pay them a cent.",
+        "gold": "Exception"
+    },
+    {
+        "id": 176,
+        "arg1": "The only light was the sparks and flames from everything around you",
+        "arg2": "the smoke made it look like midnight.",
+        "gold": "Exception"
+    },
+    {
+        "id": 177,
+        "arg1": "The only practicable solution to this unstable situation is a substantial fall in real (and nominal) interest rates.",
+        "arg2": "the unremitting logic of compound interest will tighten its stranglehold on the economy.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 178,
+        "arg1": "The only Roman coins to bear an explicit date were some very rare ones made by the Emperor Hadrian in ‘the year of the city 874’",
+        "arg2": "dates did not appear on western coinage until the thirteenth century.",
+        "gold": "Exception"
+    },
+    {
+        "id": 179,
+        "arg1": "The only way you're gon na keep that mask on is if you talk .",
+        "arg2": "I'm gonna rip it off of your face",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 180,
+        "arg1": "The patient might manage to cut up his own food with a combined knife and fork, or he may even learn to cut his food with one hand, alternating cutting and eating using a normal knife and fork.",
+        "arg2": "chopsticks are practical for one-handed eating, if the food is cut up for the patient.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 181,
+        "arg1": "The physical address CERT lists on its tax documents is the same as that of its lawyer.",
+        "arg2": "CERT has no website or obvious public presence",
+        "gold": "Exception"
+    },
+    {
+        "id": 182,
+        "arg1": "The physiotherapist may be able to point out changes which you have not noticed, but which show the patient has progressed adequately.",
+        "arg2": "there may be good reasons why he has not advanced, perhaps because he has been ill or over-tired.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 183,
+        "arg1": "The proton has positive electrical charge, the neutron has none.",
+        "arg2": "they are similar",
+        "gold": "Exception"
+    },
+    {
+        "id": 184,
+        "arg1": "the public can visit an exhibition on the future plans for Orchard Road to share their feedback",
+        "arg2": "the public can hop onto this website to submit feedback forms till May 31",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 185,
+        "arg1": "The ratio of local outpatients and inpatients to non-native patients at a healthcare institution should be taken as a performance indicator, as this is conducive to knowing main diseases, numbers, and expenditure of patients seeking cross-provincial health services .",
+        "arg2": "the implementation of health service systems will remain nothing but empty words without the effective supervision of the government.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 186,
+        "arg1": "The recuriter should know whether Rosen is suitable for that role",
+        "arg2": "there was no point in acquiring him",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 187,
+        "arg1": "the right to the pursuit of happiness is precisely that not to any guarantee that other people will make you happy .",
+        "arg2": "there would be no liberty in the country: if your mere desire for something, anything, imposes a duty on other people to satisfy you, then they have no choice in their lives, no say in what they do, they have no liberty, they can not pursue their happiness.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 188,
+        "arg1": "The safest course is to harvest boxwood from your own disease-free plants",
+        "arg2": "inspect the boxwood carefully for any symptoms",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 189,
+        "arg1": "the same businesses must always remain vigilant that their arrangements, agreements and conduct conform with competition rules",
+        "arg2": "there is a risk of coming under attack for not complying with Community competition law requirements.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 190,
+        "arg1": "The twang of the bows, the thrum of shafts going through the air, and the pug as they hit the bank, were the only sounds to break the heavy sultriness of the afternoon.",
+        "arg2": "there were few people about and those only men who appeared to be doing nothing in particular.",
+        "gold": "Exception"
+    },
+    {
+        "id": 191,
+        "arg1": "The working of a democracy depends on the discriminating use of language on the part of all its people.",
+        "arg2": "there can be no genuine participation, but only the imposition of the ideas of those who are linguistically capable.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 192,
+        "arg1": "The yard was bought by Kvaerner, one of Norway's largest shipbuilding and engineering conglomerates.",
+        "arg2": "it would probably have been closed.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 193,
+        "arg1": "The years (2012-2014) were exclusively chosen because the most recent data of the companies are completely applicable in these years .",
+        "arg2": "the researcher would have chosen the last recent three years.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 194,
+        "arg1": "Their only naturally fertile soil is the small areas of ‘machair’ on parts of the Atlantic coast",
+        "arg2": "tiny patches of fertile soil have had to be made by digging two trenches, two metres or so apart, for drainage, and piling the ‘soil’",
+        "gold": "Exception"
+    },
+    {
+        "id": 195,
+        "arg1": "there are battery chargers for your camcorders",
+        "arg2": "the way to keep your battery topped up is to use a mains charger.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 196,
+        "arg1": "There are no charges to pay, provided on your Current Account you maintain an average monthly balance credit balance of over £1,000",
+        "arg2": "a £10 fee will be payable for that month.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 197,
+        "arg1": "There are some good attorneys that I can give you the names of.",
+        "arg2": "they're gon na provide you with a public defender.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 198,
+        "arg1": "There are two records for July and one for August",
+        "arg2": "the earliest autumn record was 15 October",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 199,
+        "arg1": "There are young trees along the side of the road and filling in bare areas in the middle ground of the image, and some of the older trees in the original photograph are missing, most likely burned .",
+        "arg2": "there is little visible environmental change.",
+        "gold": "Exception"
+    },
+    {
+        "id": 200,
+        "arg1": "There is a danger here , however , as the analyst must ensure that the attribute will not be significant in any model .",
+        "arg2": "the data model will not be as useful as possible .",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 201,
+        "arg1": "There is a slight chance for scattered showers Saturday and Sunday.",
+        "arg2": "we'll remain in the mid-90s through the weekend with heat index values near with heat index values near 100.",
+        "gold": "Exception"
+    },
+    {
+        "id": 202,
+        "arg1": "Therefore, only non-controversial information can be available.",
+        "arg2": "it will be impossible to guarantee agreement.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 203,
+        "arg1": "they can either be helped on a bus or transported to the airport so they can go and fly and be with family members here in the U.S. while they wait their asylum fate.",
+        "arg2": "Brownsville is prepared by now trying to house them temporarily",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 204,
+        "arg1": "They received tax credits that covered about one-third of the cost",
+        "arg2": "it would have been impossible to offer rents that most nonprofits could afford.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 205,
+        "arg1": "They settle for 83 percent rather than 100 percent top tax rate because of practical concerns that \" some real responses could be somewhat dampened by government policies ''",
+        "arg2": "a 100 percent top bracket remains the ethical optimum, because we assume that the average social marginal welfare weight among top bracket income earners is zero.",
+        "gold": "Exception"
+    },
+    {
+        "id": 206,
+        "arg1": "This claim is effectively a truism, given that the standards by which an investor is deemed \" sophisticated \" are based on the notion that those who satisfy the tests are capable of competently evaluating prospective investments",
+        "arg2": "the claim that the investors in a private offering '' are likely to be \" sophisticated business people, \" has little foundation.",
+        "gold": "Exception"
+    },
+    {
+        "id": 207,
+        "arg1": "This new girl is our best chance .",
+        "arg2": "there's only one person left.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 208,
+        "arg1": "This plant requires a mixture of clay and sand",
+        "arg2": "it is undemanding.",
+        "gold": "Exception"
+    },
+    {
+        "id": 209,
+        "arg1": "This was the only time, I thought, the shy young woman she must have once been peeked through her tough, permanently sunburnt, and knowing facial expression .",
+        "arg2": "my grandmother ran the show wherever she was, and I loved and feared her for that.",
+        "gold": "Exception"
+    },
+    {
+        "id": 210,
+        "arg1": "This would allow him to continue to work while I made my way in .",
+        "arg2": "I wouldn't have been able to see him that night.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 211,
+        "arg1": "Those are the main improvements",
+        "arg2": "it has the same dependable and fast autofocus system of the pricier camera",
+        "gold": "Exception"
+    },
+    {
+        "id": 212,
+        "arg1": "Those evenings were the good times, when she did not question so fiercely what she was making of her life.",
+        "arg2": "day after day, a restlessness had seized her again, to be afraid.",
+        "gold": "Exception"
+    },
+    {
+        "id": 213,
+        "arg1": "To qualify as a true reversal, the similarities would have to be very extensive and detailed .",
+        "arg2": "this may not be a case of reversal, but of convergence instead.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 214,
+        "arg1": "Treatment may also be available in a Young Chronic Sick Unit or, for the over-65s, in a Geriatric Unit in a hospital.",
+        "arg2": "the patient might spend some time in a private nursing home, possibly paid for by the State.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 215,
+        "arg1": "Unfortunately, the gents had bad luck.",
+        "arg2": "there'd already be a truce, and we'd be saved from this mess.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 216,
+        "arg1": "Washington and Moscow must find a way to prevent the deployment of U.S. or Russian intermediate-range missiles systems in the Euro-Atlantic region",
+        "arg2": "leaders in Moscow, London, and Paris could once again become consumed with fears of a short-warning nuclear attack that could decapitate a nation's leaders and its command and control",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 217,
+        "arg1": "We did not meet .",
+        "arg2": "you would know that I am Dr. Schauffhaussen.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 218,
+        "arg1": "We didn't call and talk to each other unless it was bad .",
+        "arg2": "we arranged dinner and lunch and holiday things over e-mail.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 219,
+        "arg1": "We do tend to sort of doctor up the language a bit you know when we talk to them .",
+        "arg2": "they just would n't understand us .",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 220,
+        "arg1": "We don't know why retaining nipple at the pedal end fell off",
+        "arg2": "our motorcycle always reached its destination",
+        "gold": "Exception"
+    },
+    {
+        "id": 221,
+        "arg1": "We had to infuse that color with some of the same strong pigments, and consistent pigments, into that color to allow consistency .",
+        "arg2": "it'll fade.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 222,
+        "arg1": "we have conferences and rallies and congresses and debates and shows and exhibitions because they bring people together .",
+        "arg2": "we might as well all stay at home and stare at computer terminals.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 223,
+        "arg1": "We have to operate immediately .",
+        "arg2": "she will die.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 224,
+        "arg1": "We just call it love, so that we have something grand to live for .",
+        "arg2": "life seems really mundane and just a random series of events that you have no control over until you die.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 225,
+        "arg1": "We need an instruction manual .",
+        "arg2": "we're just shooting in the dark.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 226,
+        "arg1": "We need to find a huge gold deposit .",
+        "arg2": "we have to bail out of here.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 227,
+        "arg1": "We need to stand by the Bengals (the Cincinnati football team).",
+        "arg2": "there may not be a football team here anymore.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 228,
+        "arg1": "We only have one night left to have studied and partied in high school .",
+        "arg2": "we're just gon na be the girls that missed out!",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 229,
+        "arg1": "we ought to be clear with the NASA budget",
+        "arg2": "we shouldn't be spending this kind of money",
+        "gold": "Consequence"
+    },
+    {
+        "id": 230,
+        "arg1": "We should be talking to them now.",
+        "arg2": "what we've built here could disappear as quickly as it came.’",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 231,
+        "arg1": "We'll try to convince the governor to veto it",
+        "arg2": "we have several strategies in place",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 232,
+        "arg1": "We're on the edge of the cliff, and we have got to start fixing it now .",
+        "arg2": "we're leaving a disaster to our children's and our grandchildren's future.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 233,
+        "arg1": "Well, Marcie was celibate, and Mateo, they were coming to understand, might be a serial abuser .",
+        "arg2": "they might be the model contemporary couple.",
+        "gold": "Exception"
+    },
+    {
+        "id": 234,
+        "arg1": "What a pity it's dark.",
+        "arg2": "you could have seen the garden",
+        "gold": "Consequence"
+    },
+    {
+        "id": 235,
+        "arg1": "What's more, higher interest rates are exactly what the Federal Reserve Board believes the US economy needs to ensure growth doesn't speed up too much .",
+        "arg2": "you could end up with spiraling inflation.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 236,
+        "arg1": "Wheatgerm oil has antioxidant properties (because of its high vitamin E content) and will help stretch marks and ageing skin.",
+        "arg2": "you could add the contents of two vitamin E capsules to every 50 ml of base oil.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 237,
+        "arg1": "When unlocking a trolley, make sure it's pushed close to the trolley in front before inserting the coin.",
+        "arg2": "the mechanism could leap out.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 238,
+        "arg1": "Whether you are doing software engineering or social engineering, you must consider the extreme case and its possible failure modes, and defend against it in your designs .",
+        "arg2": "it will come back to bite you on the bottom.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 239,
+        "arg1": "Yes, you must be certain to stay on the right side of her .",
+        "arg2": "you might end up in her journal.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 240,
+        "arg1": "You can be assured that the majority of lecturers who appear before you not only know their subjects but are enthusiastic about them and about transmitting their knowledge to you .",
+        "arg2": "they would not be lecturing in a college but pursuing some more lucrative occupation !",
+        "gold": "Consequence"
+    },
+    {
+        "id": 241,
+        "arg1": "You could probably show your vacation photos in the theatre .",
+        "arg2": "it screened movies that had been out for months already, finally cheap enough for the theatre to afford.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 242,
+        "arg1": "Women forget the pain",
+        "arg2": "women would have stopped having children a long time ago.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 243,
+        "arg1": "You have fish which are notorious for making the water dirty, so must either have a greater volume — a bigger tank — or a better filtration system.",
+        "arg2": "you will need to separate the fish.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 244,
+        "arg1": "You have to plan out what needs to happen each day .",
+        "arg2": "you might forget that essay and have to write the whole thing the day before it's due, even though you've had plenty of time to work on it.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 245,
+        "arg1": "You keep your mouth shut, you never contact Nasry again, you do n't lawyer up, this affidavit stays in a vault, and the video disappears .",
+        "arg2": "the charge will be murder.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 246,
+        "arg1": "You know , in some countries it is against the law to put into advertisements shots that are shorter than so many parts of a second .",
+        "arg2": "it becomes brain-washing .",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 247,
+        "arg1": "I still like to get out the house and get involved in something .",
+        "arg2": "there 's no point in life.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 248,
+        "arg1": "You must not, under any circumstances, give the patient money .",
+        "arg2": "this reinforces the notion that she's totally disabled rendering the treatment kaput!",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 249,
+        "arg1": "You must take classes with subject that really interests you.",
+        "arg2": "after a hard day's work in the middle of winter, you will find that you cannot be bothered to make the effort to go along and you will have wasted the fees.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 250,
+        "arg1": "You need a concrete plan.",
+        "arg2": "you'll just hurt yourself and end up in jail.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 251,
+        "arg1": "You've got to have rules .",
+        "arg2": "death would be random... just chaotic and meaningless.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 252,
+        "arg1": "Your mother-in-law must have had a Florida room and a green thumb",
+        "arg2": "Madagascar Jasmine can be quite challenging in the winter.",
+        "gold": "Exception"
+    },
+    {
+        "id": 253,
+        "arg1": "And as writers, we need to make sure we're talking to the reader.",
+        "arg2": "what's the point?",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 254,
+        "arg1": "I'm just waiting for you to tell me what it is .",
+        "arg2": "why would I be here sweating in California when I could be in civilization?",
+        "gold": "Consequence"
+    },
+    {
+        "id": 255,
+        "arg1": "But I think that she knows that other people don't see them .",
+        "arg2": "why wouldn't she make an attempt to... Cover it up.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 256,
+        "arg1": "I think excitement and adventure and a sense of possibility about the future are incredibly important .",
+        "arg2": "why live?",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 257,
+        "arg1": "I'm... their friend .",
+        "arg2": "how would I know this?",
+        "gold": "Consequence"
+    },
+    {
+        "id": 258,
+        "arg1": "The Ba'ul could only know about the evolutionary consequences of Vahar'ai if at one time they experienced them .",
+        "arg2": "why does it threaten them?",
+        "gold": "Consequence"
+    },
+    {
+        "id": 259,
+        "arg1": "But we could still have chaps like you taking messages back and forth, bringing tea, that sort of thing.",
+        "arg2": "how would we ever get anything done?",
+        "gold": "Consequence"
+    },
+    {
+        "id": 260,
+        "arg1": "You've got to live .",
+        "arg2": "what's the point of being alive?",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 261,
+        "arg1": "But then, faith and goodness have never been a matter of intellect.",
+        "arg2": "how many of us apostles would be here?",
+        "gold": "Consequence"
+    },
+    {
+        "id": 262,
+        "arg1": "I need to find a job and support myself.",
+        "arg2": "what would I eat?",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 263,
+        "arg1": "But for now slow down, take some time to smell the virtual flowers, and enjoy what you have .",
+        "arg2": "people are just going to complain about when they feel like they have nothing else to do in game.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 264,
+        "arg1": "Be a vegan, a locavore, a marxist, whatever you want, but there has to be a central agreement that binds us together",
+        "arg2": "we'll be our own downfall.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 265,
+        "arg1": "Pace yourself. Take small steps .",
+        "arg2": "you set yourself up for failure.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 266,
+        "arg1": "Destroy them .",
+        "arg2": "these bombs could come down on American heads or ours.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 267,
+        "arg1": "Masha, please ask your father to unchain his dog .",
+        "arg2": "he'll be howling all night.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 268,
+        "arg1": "Talk to me and I can help you .",
+        "arg2": "it'll be out of my hands and you'll be wishing that you had.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 269,
+        "arg1": "Just take a ticket down from the board for the job you want , and turn it back in with the form.",
+        "arg2": "all that's left is the dining hall.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 270,
+        "arg1": "Let her go .",
+        "arg2": "it will rot your gut and take your life, too.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 271,
+        "arg1": "Now get me out of this mess, Max .",
+        "arg2": "we're both going down!",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 272,
+        "arg1": "Carry me out fast .",
+        "arg2": "we'll never make it out of here.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 273,
+        "arg1": "Please, let me do the surgery .",
+        "arg2": "we're gon na have to intubate you now.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 274,
+        "arg1": "Stay with me .",
+        "arg2": "you're not gon na hear my confession.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 275,
+        "arg1": "Instead, try to use mathematics to express your ideas .",
+        "arg2": "it's hard to understand what you are saying in a precise manner.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 276,
+        "arg1": "Do n't move in, don't be the wife until you are the wife .",
+        "arg2": "you just sell yourself short as if you are not quite worthy of his commitment of marriage.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 277,
+        "arg1": "Do not use the sysprep -pnp command-line parameter on computers that only use Plug and Play devices .",
+        "arg2": "you will increase the time that it takes for the first-run experience without providing any additional benefit to the user.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 278,
+        "arg1": "Get those pails into the dairy now.",
+        "arg2": "you'll be late for breakfast",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 279,
+        "arg1": "Check that you have typed exactly the filename you wanted.",
+        "arg2": "you may delete the wrong file",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 280,
+        "arg1": "Just delete her message and move on .",
+        "arg2": "I would tell her that you take pride in your work and your price reflects the cost of your supplies as well as your time, labor, and creativity, which is why no discounts will be given except during sales determined by you.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 281,
+        "arg1": "Spray early in the day, using a pressure sprayer directed under the foliage.",
+        "arg2": "use a permethrin or pyrethrum-based insecticide, such as Py spray insect killer (Vitax), or Nature's Answer insect spray (Fisons), spraying during the evening.",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 282,
+        "arg1": "Just add a little more basil .",
+        "arg2": "it's good.",
+        "gold": "Exception"
+    },
+    {
+        "id": 283,
+        "arg1": "The first colour you drop into the pan, use about 2/3 of the mix for that colour .",
+        "arg2": "the top (last) colour will really dominate.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 284,
+        "arg1": "Stop thinking that your children belong to you and start treating them with kindness and the respect that all people deserve .",
+        "arg2": "I don't blame them for running away",
+        "gold": "Consequence"
+    },
+    {
+        "id": 285,
+        "arg1": "Just say if you are alright and I'll go away.",
+        "arg2": "I'll call the police.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 286,
+        "arg1": "Pay special attention to removing any surplus food before it decays",
+        "arg2": "malign bacteria will multiply.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 287,
+        "arg1": "Move on to high-protein floating Koi pellets for your fish",
+        "arg2": "while growth will accelerate, body shape may be adversely affected.",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 288,
+        "arg1": "Better pray for good economic numbers and not a triple dip recession here.",
+        "arg2": "those folks in Libya are going to pay the price.",
+        "gold": "Consequence"
+    },
+    {
+        "id": 289,
+        "arg1": "You can shoot with a fixed camera position using a tripod",
+        "arg2": "you could use a mobile camera",
+        "gold": "Enumeration"
+    },
+    {
+        "id": 290,
+        "arg1": "Sit down and listen to what I have to say regarding your future",
+        "arg2": "I have no doubt that you can maintain yourself by writing",
+        "gold": "Exception"
+    },
+    {
+        "id": 291,
+        "arg1": "place the stencil card on top of a cutting board.",
+        "arg2": "you may completely ruin your kitchen table or working surface!",
+        "gold": "Argumentation"
+    },
+    {
+        "id": 292,
+        "arg1": "It was also the year in which I discovered both sex and death, so I must have learned something, in spite of not going to school.",
+        "arg2": "it was a sort of limbo",
+        "gold": "Exception"
+    },
+    {
+        "id": 293,
+        "arg1": "The starting point for delivering your presentation should be physically to recognise your audience",
+        "arg2": "you may find that they are not what you had anticipated and you may need to adapt your performance.",
+        "gold": "Argumentation"
+    }
+]

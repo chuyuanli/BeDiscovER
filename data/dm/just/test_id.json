@@ -1,0 +1,1675 @@
+[
+    {
+        "id": 0,
+        "text": "Betsy's picky, she just eats chicken nuggets.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 1,
+        "text": "Despite claiming she went on an extravagant European trip, Sarah just went to Spain.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 2,
+        "text": "He won't want any, John just drinks distilled water.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 3,
+        "text": "Yvonne just thinks about becoming an astronaut.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 4,
+        "text": "Ian just cares about playing tennis.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 5,
+        "text": "My mom just runs and skis.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 6,
+        "text": "The dog ate just two times today.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 7,
+        "text": "What is this, I just ordered a salad.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 8,
+        "text": "Just Alice came to the party last night.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 9,
+        "text": "Just five kids came to my niece's birthday party.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 10,
+        "text": "I just have watched Game of Thrones.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 11,
+        "text": "I just read sci-fi and fantasy.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 12,
+        "text": "It's just me who snowboards.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 13,
+        "text": "The company just repairs existing units.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 14,
+        "text": "Just Rocky will visit Janet on the 8th.",
+        "gold": "Exclusionary",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 15,
+        "text": "Fido is just a dog.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 16,
+        "text": "A proton is just a hydrogen atom without an electron.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 17,
+        "text": "Sue is just a language teacher.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 18,
+        "text": "Josh is just an intern.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 19,
+        "text": "A hoodie is just a sweatshirt with a hood.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 20,
+        "text": "That contraption is just a vacuum.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 21,
+        "text": "A dumbwaiter is just an elevator for food.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 22,
+        "text": "Large Language Models are just neural networks.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 23,
+        "text": "A white LED is just a filtered blue LED.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 24,
+        "text": "Luxury cars just have fancier finishes.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 25,
+        "text": "A torus is just a donut.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 26,
+        "text": "A quiche is just a breakfast casserole.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 27,
+        "text": "A sofa is just a long chair.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 28,
+        "text": "A video is just a bunch of photos put together.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 29,
+        "text": "A parking garage is just an apartment building for cars.",
+        "gold": "Unelaboratory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 30,
+        "text": "The lights just turn on and off, even when no one is around.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 31,
+        "text": "Last week, a piano just fell from the sky onto Fifth Avenue.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 32,
+        "text": "On Friday, the cars will just crash.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 33,
+        "text": "When we came in, the toys were just scattered everywhere.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 34,
+        "text": "He just doesn't listen to me.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 35,
+        "text": "The kid is just mad at me today.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 36,
+        "text": "I don't care about the taste, I just like spinach.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 37,
+        "text": "I looked over and the dog was just throwing up.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 38,
+        "text": "Two days ago she just stopped coming to work.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 39,
+        "text": "Lana thinks he just won't show.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 40,
+        "text": "I've just got a bad feeling about this.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 41,
+        "text": "She just left, out of the blue, two days ago.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 42,
+        "text": "Yesterday, we were walking along, and Alex just tripped on the side walk.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 43,
+        "text": "These things just happen.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 44,
+        "text": "Last week they just invited me over.",
+        "gold": "Unexplanatory",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 45,
+        "text": "The soup is just delicious.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 46,
+        "text": "The engine in this car is just awful.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 47,
+        "text": "This kind of behavior is just not ok.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 48,
+        "text": "The article is just badly written.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 49,
+        "text": "The headphones just won't untangle.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 50,
+        "text": "Cutting up a jackfruit is just tedious.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 51,
+        "text": "Their sense of humor is just the worst.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 52,
+        "text": "Mammoths are just gigantic.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 53,
+        "text": "The movie is just superb.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 54,
+        "text": "Smith just abhors Clancey's guts.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 55,
+        "text": "This wall paper is just horrendous.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 56,
+        "text": "My mother-in-law's quiche is just to die for.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 57,
+        "text": "That movie was just fantastic!",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 58,
+        "text": "The stars are just extrordinary tonight.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 59,
+        "text": "Your garden is just gorgeous.",
+        "gold": "Emphatic",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 60,
+        "text": "My sister just got here.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 61,
+        "text": "We just arrived.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 62,
+        "text": "They just finished eating the food.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 63,
+        "text": "She just called me.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 64,
+        "text": "I just received the news.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 65,
+        "text": "The employee just left the office.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 66,
+        "text": "My brother just turned 6.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 67,
+        "text": "I think Samuel just emailed me.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 68,
+        "text": "We will have just eaten dinner when you arrive.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 69,
+        "text": "Nancy just sneezed.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 70,
+        "text": "He told Jeff that he just finished the project.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 71,
+        "text": "Having just seen it for herself, Cathy was speechless.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 72,
+        "text": "I just saw them the other day slacking off at work.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 73,
+        "text": "We just won the championship.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 74,
+        "text": "Lisa just heard that Roger got the promotion.",
+        "gold": "Temporal",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 75,
+        "text": "The law will be just to all.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 76,
+        "text": "The sherrif did not have just cause to raid their house.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 77,
+        "text": "I don't think the policy is very just.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 78,
+        "text": "She is a just leader and a great pick for the company.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 79,
+        "text": "We want everyone to get a just treatment.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 80,
+        "text": "A just person ought to lead us.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 81,
+        "text": "Even though she is normally very just with her rulings, occaisonally they come under criticism.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 82,
+        "text": "Hopefully the just candidate will win.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 83,
+        "text": "This last regulation is not proving to be very just.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 84,
+        "text": "There's no just punishment for that behavior.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 85,
+        "text": "She was a just sovereign.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 86,
+        "text": "Without just laws a country's citizens are not protected.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 87,
+        "text": "I don't think it's just for the politicans to do that.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 88,
+        "text": "A good judge would pass just laws.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 89,
+        "text": "This is the least just law I've seen in decades.",
+        "gold": "Adjective",
+        "context2": "",
+        "context5": ""
+    },
+    {
+        "id": 90,
+        "text": "You are just in time for a demonstration.",
+        "gold": "Temporal",
+        "context2": "You had no authority to release my patient. My colleague has just informed me she has a singular talent.",
+        "context5": "I am the only one that can control him. # D-D-Dr. House in the house # Impeccable timing as always. You had no authority to release my patient. My colleague has just informed me she has a singular talent."
+    },
+    {
+        "id": 91,
+        "text": "Well, I just want to keep tabs on all my prisoners.",
+        "gold": "Exclusionary",
+        "context2": "He's there. That's very nice, Herr Kommandant.",
+        "context5": "Are you there? You are? Of course, where else would you be? He's there. That's very nice, Herr Kommandant."
+    },
+    {
+        "id": 92,
+        "text": "Holy shit, did he just come in his pants?",
+        "gold": "Temporal",
+        "context2": "Is there anything I can do to help? God, you smell good.",
+        "context5": "- Seriously, you need a new agent. - He's my manager now. Are you okay? Is there anything I can do to help? God, you smell good."
+    },
+    {
+        "id": 93,
+        "text": "- That's what I just said.",
+        "gold": "Temporal",
+        "context2": "Over over. - No, not \" over over \". - \" Over. \" Over.",
+        "context5": "Say \" over \". Over. - Acknowledged. Over over. - No, not \" over over \". - \" Over. \" Over."
+    },
+    {
+        "id": 94,
+        "text": "No, it's just confusing.",
+        "gold": "Emphatic",
+        "context2": "They always have. It's French.",
+        "context5": "I don't know! It's all women in there! Go and have a look. They always have. It's French."
+    },
+    {
+        "id": 95,
+        "text": "- I'm not asking you to fight just help us hide for a while.",
+        "gold": "Exclusionary",
+        "context2": "Hard to fight fanatics. - More like impossible.",
+        "context5": "All the time. You can kill them. They believe in what they're doing. They're ready to die for the cause. Hard to fight fanatics. - More like impossible."
+    },
+    {
+        "id": 96,
+        "text": "Okay, I'll just, I'll just keep you on the line, and then I'll say the safe word, okay?",
+        "gold": "Exclusionary",
+        "context2": "You're the deer, you're the deer, you're the deer. I'm at school and I'm doing office hours...",
+        "context5": "Jess, I will not let you be in a room alone with this guy. You're the deer in his story. He wants to kill you. You're the deer, you're the deer, you're the deer. I'm at school and I'm doing office hours..."
+    },
+    {
+        "id": 97,
+        "text": "Just watch the others beat him up?",
+        "gold": "Exclusionary",
+        "context2": "But this fighting with other boys, it is really stupid. What should I do, then?",
+        "context5": "I didn't know that you were such good friends. We are not friends or... Just... But this fighting with other boys, it is really stupid. What should I do, then?"
+    },
+    {
+        "id": 98,
+        "text": "I wish I could just come home.",
+        "gold": "Exclusionary",
+        "context2": "A sandwich, Francine! This sandwich.",
+        "context5": "Sorry, things didn't work out with your new roommate, Roger. I tell you, it's a cruel, cruel world out here. Did you know I saw a man beat down another man today for a sandwich? A sandwich, Francine! This sandwich."
+    },
+    {
+        "id": 99,
+        "text": "Just to be sure, you can take my pack.",
+        "gold": "Exclusionary",
+        "context2": "You're just trying to run away, aren't you? Here.",
+        "context5": "No one ever heard from him again. I'll tell you what. You go the other way. I'll cut through here, and I'll meet you on the far side. You're just trying to run away, aren't you? Here."
+    },
+    {
+        "id": 100,
+        "text": "Hi, Bruce, I just got dumped.",
+        "gold": "Temporal",
+        "context2": "And then I think, \"I've got tickets on the floor.\" And I realized, \"No, no, no, what I need is a sign.\"",
+        "context5": "And I think, \"This is going to be the worst day of my life.\" So I get home, I get drinking and I don't know what else to do, or what to think except I guess I need somebody else to go see Bruce Springsteen with me. And I guess that won't be too hard to find. And then I think, \"I've got tickets on the floor.\" And I realized, \"No, no, no, what I need is a sign.\""
+    },
+    {
+        "id": 101,
+        "text": "You don't just give up because- -",
+        "gold": "Emphatic",
+        "context2": "You're overreacting. We're just having a conversation.",
+        "context5": "I mean every time I try to step outside of the box a little, it's like you keep trying to push me in. And I think that we should break up. Erica, don't. You're overreacting. We're just having a conversation."
+    },
+    {
+        "id": 102,
+        "text": "I'll just take these two boxes for now and come back for the rest later, okay?",
+        "gold": "Exclusionary",
+        "context2": "Have you found everything? Yes.",
+        "context5": "Thank you. Hey. Have you found everything? Yes."
+    },
+    {
+        "id": 103,
+        "text": "I... I just wanted to say one last...",
+        "gold": "Exclusionary",
+        "context2": "I just wanted Maureen to be at peace with this place. And with Lewis' spirit.",
+        "context5": "Thank you. So we thought about it, and we're renovating. I think that's what Lewis would have wanted. I just wanted Maureen to be at peace with this place. And with Lewis' spirit."
+    },
+    {
+        "id": 104,
+        "text": "Just breathe.",
+        "gold": "Exclusionary",
+        "context2": "Yeah, a little. You look fantastic.",
+        "context5": "Is there anyone special you'd like me to call? Oh, Sis. You nervous? Yeah, a little. You look fantastic."
+    },
+    {
+        "id": 105,
+        "text": "Listen to that, he's just a little bit shy at first.",
+        "gold": "Exclusionary",
+        "context2": "Carl, tell Charlie about your program. Please, Luke, don't take the piss.",
+        "context5": "Don't worry about him too much, Charlie. He's on a program. Really? Carl, tell Charlie about your program. Please, Luke, don't take the piss."
+    },
+    {
+        "id": 106,
+        "text": "I just do work on girls.",
+        "gold": "Exclusionary",
+        "context2": "Caspere attended. Go.",
+        "context5": "Pin-eyed motherfucker. Hooker parties. What you'd call affluent men. Caspere attended. Go."
+    },
+    {
+        "id": 107,
+        "text": "Sorry i'm late. I just had to go over some things with sam.",
+        "gold": "Unexplanatory",
+        "context2": "Well... Maybe i found something to keep me here.",
+        "context5": "Um, well, that's very generous, but i don't think it'll cover my rent. There's plumbing and a fridge, and you could live there while you do the work. You know, just until you... Figure out your next move. Well... Maybe i found something to keep me here."
+    },
+    {
+        "id": 108,
+        "text": "I just want some information!",
+        "gold": "Exclusionary",
+        "context2": "A friend of Sarah's, I just want to talk!",
+        "context5": "Alright. It's right there. You wait here, I'll check it out.  A friend of Sarah's, I just want to talk!"
+    },
+    {
+        "id": 109,
+        "text": "Like those little doodles you just happened to draw?",
+        "gold": "Unexplanatory",
+        "context2": "Find out what your destiny is and the river will carry you. Now, sometimes events in life give an individual clues as to where their destiny lies.",
+        "context5": "Little Anne Frank wants to be a High School teacher. Tough titty Anne. That's not your destiny. But you will go on to move the hearts and minds of millions. Find out what your destiny is and the river will carry you. Now, sometimes events in life give an individual clues as to where their destiny lies."
+    },
+    {
+        "id": 110,
+        "text": "No, I can't, but Victor and a dozen other brokers just lining up to testify against you- -",
+        "gold": "Emphatic",
+        "context2": "Your little game of \" hide the short \"... Only works when it's legal. You can't prove anything.",
+        "context5": "Don't worry. I'll sell you what you need. After all, what are friends for? Your little game of \" hide the short \"... Only works when it's legal. You can't prove anything."
+    },
+    {
+        "id": 111,
+        "text": "I just found out there's a chance we may be restationed again.",
+        "gold": "Temporal",
+        "context2": "I had a good game -- 13 strikeouts. Did you win?",
+        "context5": "Hey. Jimmy. Hey, Dad. Jimmy. I had a good game -- 13 strikeouts. Did you win?"
+    },
+    {
+        "id": 112,
+        "text": "No, sir. Just an imprint of his credit card.",
+        "gold": "Exclusionary",
+        "context2": "Here's the file. John F. Carey. You don't have a driver's license or home address?",
+        "context5": "Who checked her in? I don't know. Let's find out. She had no insurance so this guy put it on his own credit card. Here's the file. John F. Carey. You don't have a driver's license or home address?"
+    },
+    {
+        "id": 113,
+        "text": "If this is the end of it, just tell me and I'll save myself a trip to Africa.",
+        "gold": "Exclusionary",
+        "context2": "What? I've been calling for hours.",
+        "context5": "♪ ♪ Marshall, are you having an affair? What? I've been calling for hours."
+    },
+    {
+        "id": 114,
+        "text": "I should save it, just in case, for more important things.",
+        "gold": "Exclusionary",
+        "context2": "But that's that, I suppose. I'm not sure how long this battery will last.",
+        "context5": "I still think about it... a place where you and I could have...  [ sighs ] But that's that, I suppose. I'm not sure how long this battery will last."
+    },
+    {
+        "id": 115,
+        "text": "We just went for a stroll.",
+        "gold": "Exclusionary",
+        "context2": "Did you boff her? Tell me the truth!",
+        "context5": "I knew it! I thought you'd left. Without saying goodbye? Did you boff her? Tell me the truth!"
+    },
+    {
+        "id": 116,
+        "text": "I am just fine without adding any random, unwanted blood relatives into my life.",
+        "gold": "Emphatic",
+        "context2": "I don't need any... screw it. Screw her.",
+        "context5": "- She's not. She's... - What am I doing? I have parents... good, funny, kind, goofy parents. I don't need any... screw it. Screw her."
+    },
+    {
+        "id": 117,
+        "text": "Boys, why don't you just turn around now - save yourselves a lot of trouble?",
+        "gold": "Emphatic",
+        "context2": "- No. I got nominated real good.",
+        "context5": "I'm not in a good position. Let him stick his neck out. - You elected? - No. I got nominated real good."
+    },
+    {
+        "id": 118,
+        "text": "What did you just say?",
+        "gold": "Temporal",
+        "context2": "Where, where... There!",
+        "context5": "Where is she? Where, where... There!"
+    },
+    {
+        "id": 119,
+        "text": "- Did I just fart?",
+        "gold": "Temporal",
+        "context2": "Who is Ty Cobb? Oh, my God!",
+        "context5": "I know 6 men on their board. Baxter Cain is not going quietly into the good night. - Baxter? Who is Ty Cobb? Oh, my God!"
+    },
+    {
+        "id": 120,
+        "text": "Yeah, they'll live everywhere on me. And they'll be in my hair. And I'll just lay around on the sidewalk muttering about Oliver North- -",
+        "gold": "Exclusionary",
+        "context2": "- With cats. Lots of cats.",
+        "context5": "Why don't you slow down a little bit, huh? Then I'll be a big, fat homeless woman. - Slow down. I'm serious. - With cats. Lots of cats."
+    },
+    {
+        "id": 121,
+        "text": "- Just a sec.",
+        "gold": "Exclusionary",
+        "context2": "We'll break on through we'll get so high And don't worry about tomorrow's world...",
+        "context5": "I got a deck. - Fuck. We're gonna have to get some cigarettes tonight. So come on girl we'll raise the sky We'll break on through we'll get so high And don't worry about tomorrow's world..."
+    },
+    {
+        "id": 122,
+        "text": "Uh, well, as we just saw, there's so such thing as a quiet bris.",
+        "gold": "Temporal",
+        "context2": "I know it might seem tacky piggybacking on deborah's bris, but. we could do it in the den very quietly.",
+        "context5": "Trust me, it won't be one I haven't heard. do you tnk, while you're here, do could do a bris for my baby, too? Okay, new one. Good for you. I know it might seem tacky piggybacking on deborah's bris, but. we could do it in the den very quietly."
+    },
+    {
+        "id": 123,
+        "text": "Just leave it at the beep.",
+        "gold": "Temporal",
+        "context2": "Hmm. Little busy.",
+        "context5": "We need to go over the numbers for this quarter, and they are not good. Here... Quinton? Hmm. Little busy."
+    },
+    {
+        "id": 124,
+        "text": "I just popped in to say hello.",
+        "gold": "Unexplanatory",
+        "context2": "-What's the matter? -Nothing, old chap.",
+        "context5": "You seem rather agitated. -Not at all. -Yes, you do! -What's the matter? -Nothing, old chap."
+    },
+    {
+        "id": 125,
+        "text": "Just watch Rosie.",
+        "gold": "Exclusionary",
+        "context2": "That's what you should do, Grace. Now, you just sit over here and you watch Rosie.",
+        "context5": "I'll take a long rest. I'll rest, I'll just rest. Isn't that a good idea? That's what you should do, Grace. Now, you just sit over here and you watch Rosie."
+    },
+    {
+        "id": 126,
+        "text": "I just want to watch the game.",
+        "gold": "Exclusionary",
+        "context2": "I forgot to tell you, Paul brought his violin, and with a little coaxing, he fiddle with the old horsehairs. Only if you don't mind being enchanted.",
+        "context5": "So, I'm just gonna freshen up. Oh, thanks. And I'll be right back. I forgot to tell you, Paul brought his violin, and with a little coaxing, he fiddle with the old horsehairs. Only if you don't mind being enchanted."
+    },
+    {
+        "id": 127,
+        "text": "I just want you in my life, you know?",
+        "gold": "Exclusionary",
+        "context2": "I just wanna watch you grow up. I'm 26 years old. I'm not a kid.",
+        "context5": "What would you do all day? I don't know. This. Hang around with you. I just wanna watch you grow up. I'm 26 years old. I'm not a kid."
+    },
+    {
+        "id": 128,
+        "text": "You just pay attention to other people's children.",
+        "gold": "Exclusionary",
+        "context2": "- But, Tatsuo... Look, you've never given a shit about me, and now isn't the time to start!",
+        "context5": "- What the fuck?! I'll take care of it. Just forget about it. - But, Tatsuo... Look, you've never given a shit about me, and now isn't the time to start!"
+    },
+    {
+        "id": 129,
+        "text": "Just protecting the children.",
+        "gold": "Exclusionary",
+        "context2": "They'll be placed in our group facility until then. Was this you?",
+        "context5": "- It's okay, boys. I'm gonna get you out. - That won't happen without a hearing. They'll be placed in our group facility until then. Was this you?"
+    },
+    {
+        "id": 130,
+        "text": "You should have just said that.",
+        "gold": "Emphatic",
+        "context2": "It looks like a speed bag at a boxing gym. Oh, that thing.",
+        "context5": "What the hell is that? The projection on the posterior edge of the soft palate. Can you speak normally, please? It looks like a speed bag at a boxing gym. Oh, that thing."
+    },
+    {
+        "id": 131,
+        "text": "You just earned yourself a trip to the cells.",
+        "gold": "Temporal",
+        "context2": "Worsley! Get him out of here.",
+        "context5": "They never gave me any money. - You lying bastard! - Sir, sir, sir! Worsley! Get him out of here."
+    },
+    {
+        "id": 132,
+        "text": "- Yes, very good, Sherlock, or we could just look at the name on the lid.",
+        "gold": "Exclusionary",
+        "context2": "Acquainted with the process of death, but unsentimental about the necessity of disposal. - Also the lining of the coffin...",
+        "context5": "This is a practical and informed choice. Balance of probability suggests that this is for an unmarried woman distant from her close relatives. That much is suggested by the economy of choice. Acquainted with the process of death, but unsentimental about the necessity of disposal. - Also the lining of the coffin..."
+    },
+    {
+        "id": 133,
+        "text": "Please, can we just start over?",
+        "gold": "Exclusionary",
+        "context2": "Just wait. You're right.",
+        "context5": "Whatever issues you're having with your father, don't blame me. Go be angry with him. You don't know anything about me. Wait a second. Just wait. You're right."
+    },
+    {
+        "id": 134,
+        "text": "It's just...",
+        "gold": "Unexplanatory",
+        "context2": "- What? - No. Nothing.",
+        "context5": "They were here for four hours. That just flew by. Yeah. - What? - No. Nothing."
+    },
+    {
+        "id": 135,
+        "text": "Excuse me, judge, but this is just about whether or not I get bail, right?",
+        "gold": "Exclusionary",
+        "context2": "Where's your attorney, son? I don't have one.",
+        "context5": "Officer Stone, does he have a record? We don't usually get to see you at a bond hearing, Mr. Stone. But this isn't your garden variety homicide. Where's your attorney, son? I don't have one."
+    },
+    {
+        "id": 136,
+        "text": "`` I search just foryou.''",
+        "gold": "Exclusionary",
+        "context2": "\"Ljust... faced defeat.\" \"You're my soul.\"  `` I search just for you.''",
+        "context5": "\"It's the search for love.\" \"It made me lose everything.\" \"The feeling of love.\" \"Ljust... faced defeat.\" \"You're my soul.\"  `` I search just for you.''"
+    },
+    {
+        "id": 137,
+        "text": "It's just...",
+        "gold": "Emphatic",
+        "context2": "I know. I'm sorry.",
+        "context5": "I guess you guys didn't get into the club. - No, we didn't. - It's my fault. I know. I'm sorry."
+    },
+    {
+        "id": 138,
+        "text": "Just yesterday!",
+        "gold": "Temporal",
+        "context2": "They took away credit card and cheques from me for a whole year! - But they gave them back in the end - Yes they gave them back.",
+        "context5": "I cannot take money on my credit card for the whole orchestra! - Why not? - Mr Duplessis... Last time you have reimbursed me four months later! They took away credit card and cheques from me for a whole year! - But they gave them back in the end - Yes they gave them back."
+    },
+    {
+        "id": 139,
+        "text": "Can we just skip to the part where you believe me now?",
+        "gold": "Unexplanatory",
+        "context2": "Is this a joke? No. You ask me insulting questions about my dead parents and you think I'm going to ignore orders.",
+        "context5": "Look, I'm sorry, but you're breaking up. Could you just repeat yourself? Mercy Callo. Is this a joke? No. You ask me insulting questions about my dead parents and you think I'm going to ignore orders."
+    },
+    {
+        "id": 140,
+        "text": "I just stop riding bicycles one day and then when I tried again I just couldn't.",
+        "gold": "Unexplanatory",
+        "context2": "You know... Anyway why did you lie to me?",
+        "context5": "or because we couldn't finish our conversation. What conversation? The other night, you said if I prove it to you... You know... Anyway why did you lie to me?"
+    },
+    {
+        "id": 141,
+        "text": "Well, let's just...",
+        "gold": "Exclusionary",
+        "context2": "All that craziness. I wish I could fix it.",
+        "context5": "There's my bouquet. That's fantastic. Well,it's subpar. I was rushed. All that craziness. I wish I could fix it."
+    },
+    {
+        "id": 142,
+        "text": "Baby, I just got this call from this guy who said you'd be calling me from a booth to tell me something important.",
+        "gold": "Temporal",
+        "context2": "- Where are you? - I'm in a phone booth.",
+        "context5": "- Hold it to the receiver so I can hear. - Stu? - Yeah. - Where are you? - I'm in a phone booth."
+    },
+    {
+        "id": 143,
+        "text": "So, what, we bow down to Potter just because he's on the megaphone once again?",
+        "gold": "Unexplanatory",
+        "context2": "And immediately. The longer we let this case go on, the more it's gonna cost us in the long run.",
+        "context5": "The investigation is stalling out because the community has stopped cooperating. They're buying into when Potter says we can't be trusted. Which is why we have to get him back on our side publicly. And immediately. The longer we let this case go on, the more it's gonna cost us in the long run."
+    },
+    {
+        "id": 144,
+        "text": "Those were just the ones I could find before the case was shut down.",
+        "gold": "Exclusionary",
+        "context2": "What Barr didn't know that day was the four civilian contractors he'd picked off just spent the weekend at what they call a rape-rally. It was 28 women, ages 54 on down to 11.",
+        "context5": "He almost got away with it, too. But I caught him. And he confessed. So why didn't he go to prison? What Barr didn't know that day was the four civilian contractors he'd picked off just spent the weekend at what they call a rape-rally. It was 28 women, ages 54 on down to 11."
+    },
+    {
+        "id": 145,
+        "text": "And you're just in a sort of limbo. - You feel the cramps starting.",
+        "gold": "Unelaboratory",
+        "context2": "Weren't the downers in the Come'N'Shop? I meant Come'N'Shop...",
+        "context5": "Put yourself in Jimmy's shoes right now. You're standing there, no familiar faces. No Roy Arnie with a Shop'N'Come bag... Weren't the downers in the Come'N'Shop? I meant Come'N'Shop..."
+    },
+    {
+        "id": 146,
+        "text": "Who were you just on the phone with?",
+        "gold": "Temporal",
+        "context2": "He called to say happy birthday. State police, son.",
+        "context5": "- Hello. - I forgot to tell Mom happy birthday. Tell her I said happy birthday. He called to say happy birthday. State police, son."
+    },
+    {
+        "id": 147,
+        "text": "It's just for some information for a case we're on.",
+        "gold": "Exclusionary",
+        "context2": "But I like it. You wanted to see me?",
+        "context5": "Two gentlemen to see you. From the police. Don't worry. It's just for some information. They're very polite. Leave the jacket. But I like it. You wanted to see me?"
+    },
+    {
+        "id": 148,
+        "text": "Just... don't tell anyone, OK?",
+        "gold": "Exclusionary",
+        "context2": "You know... Lost, so to speak. I thought you would never ask.",
+        "context5": "You want to go some place private? Private? Yeah. You know... Lost, so to speak. I thought you would never ask."
+    },
+    {
+        "id": 149,
+        "text": "We'll be back with racing from the Nationals in just a moment.",
+        "gold": "Emphatic",
+        "context2": "100,000 people are ready. I'm certainly ready for the finals of the granddaddy of all drag races, the U.S. Nationals.",
+        "context5": "Joining me here today is Steve Evans, who can tell us just how big this event really is. Dave, the magnitude of this 24-year-old U.S. Nationals is just awesome... over 1,000 participants, over $400,000 in cash awards, a 200-acre racing facility, 1,000 workers, about $15 million pumped into the Hoosier economy. 100,000 people are ready. I'm certainly ready for the finals of the granddaddy of all drag races, the U.S. Nationals."
+    },
+    {
+        "id": 150,
+        "text": "It turns out she's just a fag hag.",
+        "gold": "Exclusionary",
+        "context2": "I thought he was dating Samantha Jones. All this time, I thought she had the hottest sex life in New York city.",
+        "context5": "Meanwhile, Samantha was about to hear the hottest rumor... from the city's hottest rumor mill, two young PR girls. Did you see that picture of Smith Jerrod online? I can't believe he's gay. No one that good-looking is ever straight. I thought he was dating Samantha Jones. All this time, I thought she had the hottest sex life in New York city."
+    },
+    {
+        "id": 151,
+        "text": "It's just that he's...",
+        "gold": "Exclusionary",
+        "context2": "Shut it, Karev. Look, it's not that I don't like Mark.",
+        "context5": "Tell me. Because I don't think you actually are. - What? - Should I leave? Shut it, Karev. Look, it's not that I don't like Mark."
+    },
+    {
+        "id": 152,
+        "text": "Just to keep us hanging on?",
+        "gold": "Unexplanatory",
+        "context2": "That erupts before your eyes? How can you tell us something",
+        "context5": "How can you stand the silence That pervades when we all cry? How can you watch the violence That erupts before your eyes? How can you tell us something"
+    },
+    {
+        "id": 153,
+        "text": "Not everyone can just leave and make it big, you know.",
+        "gold": "Emphatic",
+        "context2": "- No no, just... - Jimmy, not everyone is like you.",
+        "context5": "- Randy is a good guy I'm sure, but... - he's Queens. - And who am I, Queen Noor? - No no, just... - Jimmy, not everyone is like you."
+    },
+    {
+        "id": 154,
+        "text": "Well, if I haven't, things have just gotten kinky.",
+        "gold": "Temporal",
+        "context2": "You got any? You've reverted to zombie form?",
+        "context5": "Kidding. Kind of. I do need brains. You got any? You've reverted to zombie form?"
+    },
+    {
+        "id": 155,
+        "text": "Just press the key.",
+        "gold": "Emphatic",
+        "context2": "Some kind of game? I've never seen that one before. How do you play?",
+        "context5": "I happen to know its both. Well, we can't be all as successful as you are. [ chuckles ] Too true. Some kind of game? I've never seen that one before. How do you play?"
+    },
+    {
+        "id": 156,
+        "text": "I just want to be with my wife.",
+        "gold": "Exclusionary",
+        "context2": "You're upset. You're damn right I'm upset!",
+        "context5": "With family members present, it makes it harder for us. We just want to do the best job. What about what I want? You're upset. You're damn right I'm upset!"
+    },
+    {
+        "id": 157,
+        "text": "I was just in the middle of- -",
+        "gold": "Exclusionary",
+        "context2": "You never even made it to the funeral. - I meant to.",
+        "context5": "Like your husband. You never knew David. He was a sweet, funny, passionate man. You never even made it to the funeral. - I meant to."
+    },
+    {
+        "id": 158,
+        "text": "You are just a face.",
+        "gold": "Exclusionary",
+        "context2": "I remember-um. Transfigured Night.",
+        "context5": "Clouds, clouds... the moon. It's grand. Then too, as I remember. I remember-um. Transfigured Night."
+    },
+    {
+        "id": 159,
+        "text": "Ok. Well, let's just say hypothetically that zachary wanted to be your boyfriend.",
+        "gold": "Exclusionary",
+        "context2": "Is there a guy that you like at school right now? Zachary todd. He wears a choker. It's hot.",
+        "context5": "And helping is the same as doing a good deed. And doing good deeds is a part of what being grounded is all about. Like community service for prisoners. Ok. Is there a guy that you like at school right now? Zachary todd. He wears a choker. It's hot."
+    },
+    {
+        "id": 160,
+        "text": "I just liked smelling' her hair.",
+        "gold": "Exclusionary",
+        "context2": "I smelled her hair. That's all.",
+        "context5": "It was a small house. All right. A small house... with small rooms. I smelled her hair. That's all."
+    },
+    {
+        "id": 161,
+        "text": "Just... get... to the top.",
+        "gold": "Exclusionary",
+        "context2": "That would be terrible. _",
+        "context5": "For the first time ever. Of course that's when it would happen. Ugh. That would be terrible. _"
+    },
+    {
+        "id": 162,
+        "text": "- Marcus has just asked me to be his wife.",
+        "gold": "Temporal",
+        "context2": "Last night and this morning, you had us quite concerned. Paul.",
+        "context5": "Get rid of him. - Well. I'm glad to see you on your feet again. Last night and this morning, you had us quite concerned. Paul."
+    },
+    {
+        "id": 163,
+        "text": "I just wanted to get fucked good.",
+        "gold": "Exclusionary",
+        "context2": "Wow'! This is gonna sound awful. I was having really shitty sex. I couldn't find a lover that could satisfy me to save my life for years.",
+        "context5": "- What else? - Oh, wow. \" Wing Commander : Prophecy \" with Mark Hamill will be out for Christmas. And \" God's Lonely Man \" with Justine Bateman will be out soon. Wow'! This is gonna sound awful. I was having really shitty sex. I couldn't find a lover that could satisfy me to save my life for years."
+    },
+    {
+        "id": 164,
+        "text": "I'm just a worrier.",
+        "gold": "Exclusionary",
+        "context2": "Glenn made a checklist. We're good, I swear. I know.",
+        "context5": "Don't make me hurt you. Reg : You got everything? First aid kits, yellow pages. Glenn made a checklist. We're good, I swear. I know."
+    },
+    {
+        "id": 165,
+        "text": "If you just worked hard, you could go from being the guy that works part-time at a public course to the head pro at the country club.",
+        "gold": "Emphatic",
+        "context2": "Your lessons are starting to pick up. Free root beers are rolling in.",
+        "context5": "Bobby, what are you doing wasting your time in there? You were a pro golfer... sort of. Your lessons are starting to pick up. Free root beers are rolling in."
+    },
+    {
+        "id": 166,
+        "text": "It's not just the money.",
+        "gold": "Exclusionary",
+        "context2": "A crummy 15%. What's wrong with that?",
+        "context5": "Fuente loses the cost of the dope, but he gets his money back. You are getting something from this. I know it. A crummy 15%. What's wrong with that?"
+    },
+    {
+        "id": 167,
+        "text": "Shut up! Just come back here!",
+        "gold": "Unelaboratory",
+        "context2": "Shut up and eat or I'll kick your ass! I'm going to tell brother Fung to come back.",
+        "context5": "What's with you and your bullshit?! Just eat your rice! Shut up and eat or I'll kick your ass! I'm going to tell brother Fung to come back."
+    },
+    {
+        "id": 168,
+        "text": "I just need you to understand.",
+        "gold": "Exclusionary",
+        "context2": "Because I don't want to. Because it's mine.",
+        "context5": "Just give me the gun, and I will feel much better. I'm not. Why? Because I don't want to. Because it's mine."
+    },
+    {
+        "id": 169,
+        "text": "Just stuff it down that sack there, will you?",
+        "gold": "Unelaboratory",
+        "context2": "I don't believe it's in Mississippi. Friend, some of your folding money has come unstowed.",
+        "context5": "Hop on in while you give it a think. Any of you boys know your way... around a Walther P.P. K? Well, see, that's where we can't help you. I don't believe it's in Mississippi. Friend, some of your folding money has come unstowed."
+    },
+    {
+        "id": 170,
+        "text": "I just want you to know I wasn't trying to escape your party.",
+        "gold": "Exclusionary",
+        "context2": "Adds Latin flavour to it. Oh.",
+        "context5": "Yeah. No, you should. I think it suits you. Adds Latin flavour to it. Oh."
+    },
+    {
+        "id": 171,
+        "text": "Will this new product be just what Lookinglass needs?",
+        "gold": "Adjective",
+        "context2": "A two-year product drought is ending today as Lookinglass rolls out its new operating system. Will this answer the question of what has Otto Goodwin been doing?",
+        "context5": "Lookinglass has seen its price per share slip recently as always enigmatic Chief Technology Officer Otto Goodwin has become even more reclusive. Lookinglass aiming to reassert itself in both the corporate I.T., as well as the personal use market with the launch of its new operating system. A two-year product drought is ending today as Lookinglass rolls out its new operating system. Will this answer the question of what has Otto Goodwin been doing?"
+    },
+    {
+        "id": 172,
+        "text": "\" There's just now, and there's just the two of us, which can be scary fucking ugly sometimes.",
+        "gold": "Exclusionary",
+        "context2": "As a guy who loves a girl, I realize there's no such thing. There's no sunset. \"",
+        "context5": "The guy gets the girl. She saves him from himself... fade to fucking black. As a guy who loves a girl, I realize there's no such thing. There's no sunset. \""
+    },
+    {
+        "id": 173,
+        "text": "And Sergeant Brody's due home from Germany tomorrow morning, which gives us just under 22 hours.",
+        "gold": "Exclusionary",
+        "context2": "Yeah, except me. Yeah.",
+        "context5": "Why would you sacrifice 13 trained fighters? Because Abu Nazir is playing the long game. This way, no one suspects a thing. Except you. Yeah, except me. Yeah."
+    },
+    {
+        "id": 174,
+        "text": "Just thinking about what Babineaux said about the van being dirty and the shovel that Walt had with him.",
+        "gold": "Exclusionary",
+        "context2": "- Who said we're giving up? - What do you got?",
+        "context5": "Well, that's it. Game over. Yo, man, you can't just give up on this. - Who said we're giving up? - What do you got?"
+    },
+    {
+        "id": 175,
+        "text": "It's not a snake, just look down!",
+        "gold": "Unexplanatory",
+        "context2": "What is it, a spider? A snake? Tell me it's not a snake!",
+        "context5": "Now you're taking his side? - No, don't be an idiot, look down. I can't. What is it, a spider? A snake? Tell me it's not a snake!"
+    },
+    {
+        "id": 176,
+        "text": "You just might be right, Mr. Beale.",
+        "gold": "Emphatic",
+        "context2": "Sixty million people watch you... every night of the week, Monday through Friday. I have seen the face of God.",
+        "context5": "And I have chosen you, Mr. Beale... to preach this evangel. Why me? Because you're on television, dummy! Sixty million people watch you... every night of the week, Monday through Friday. I have seen the face of God."
+    },
+    {
+        "id": 177,
+        "text": "Just get out of here, man, okay?",
+        "gold": "Unexplanatory",
+        "context2": "You should go. We had a deal.",
+        "context5": "Hey, what do you want from me? Do you think I'm up to being a dad? This was a bad idea. You should go. We had a deal."
+    },
+    {
+        "id": 178,
+        "text": "I will never trust you or like you or enjoy your company for so much as one second, so just quit trying.",
+        "gold": "Unexplanatory",
+        "context2": "I knocked you out, kidnapped you against your will. Can't you see I'm trying to apologize?",
+        "context5": "My magic's gone, which means we will be stuck here forever. Why don't we just divide the world in half and go our separate ways? I get it. I knocked you out, kidnapped you against your will. Can't you see I'm trying to apologize?"
+    },
+    {
+        "id": 179,
+        "text": "You're just targets for those guys.",
+        "gold": "Exclusionary",
+        "context2": "Still an ass, but he's different. What are you two talking about? What?",
+        "context5": "I wanna see myself. It's funny you say that, because Skeets came by the chemistry lab yesterday and he was actually really nice. I mean, he's different when he's alone. Still an ass, but he's different. What are you two talking about? What?"
+    },
+    {
+        "id": 180,
+        "text": "You were just children.",
+        "gold": "Exclusionary",
+        "context2": "- X5 was my group. I didn't see how you'd even make it to the wire.",
+        "context5": "- We heard the sirens, the helicopters. They said it was a drill, but as I left the base I overheard a sentry say it was an escape - from block 12 where X5 lived. - X5 was my group. I didn't see how you'd even make it to the wire."
+    },
+    {
+        "id": 181,
+        "text": "Something was pulled from it just before they published, and I bet it relates to this case.",
+        "gold": "Temporal",
+        "context2": "That's layout 101... you never place an ad above the fold on the front page... unless something changed, last-minute, creating a space to fill. Like the lead story was shortened.",
+        "context5": "That people were ever actually afraid of y2k? Yes, that, and the ad is above the fold. I worked on my school paper. That's layout 101... you never place an ad above the fold on the front page... unless something changed, last-minute, creating a space to fill. Like the lead story was shortened."
+    },
+    {
+        "id": 182,
+        "text": "She's either counting oxygen molecules... or analyzing the petri dish she just put into her mouth.",
+        "gold": "Temporal",
+        "context2": "Well, personally, I kinda want to slay the dragon. - Let's go to work.",
+        "context5": "- And in terms of a plan? - We fight. Bit more specific? Well, personally, I kinda want to slay the dragon. - Let's go to work."
+    },
+    {
+        "id": 183,
+        "text": "- I just want to hear you say it.",
+        "gold": "Exclusionary",
+        "context2": "- Yes, like Mingan. - Now let go of my arm!",
+        "context5": "You cannot know what it takes to fight back the violence and drugs and suicides on the Res. Suicides. - Like Mingan Pine's? - Yes, like Mingan. - Now let go of my arm!"
+    },
+    {
+        "id": 184,
+        "text": "It just happened.",
+        "gold": "Unexplanatory",
+        "context2": "I must go back. It is my life. I never wanted to be in love with you.",
+        "context5": "I must go. - Okay. I need, baby. I must go back. It is my life. I never wanted to be in love with you."
+    },
+    {
+        "id": 185,
+        "text": "Perfect, just put it here.",
+        "gold": "Exclusionary",
+        "context2": "Okay then. If that's what you want.",
+        "context5": "Okay then. - You mean that? - Yes. Okay then. If that's what you want."
+    },
+    {
+        "id": 186,
+        "text": "Brian Drew just trashed your office.",
+        "gold": "Temporal",
+        "context2": "- I'm gonna come back. - What do you need, Rick?",
+        "context5": "Hi. I'm sorry to interrupt. I can come back. - I'm gonna come back. - What do you need, Rick?"
+    },
+    {
+        "id": 187,
+        "text": "Just let her go!",
+        "gold": "Unexplanatory",
+        "context2": "So much easier when they don't struggle. What are you doing?",
+        "context5": "Stop. Stop! Please, don't struggle. So much easier when they don't struggle. What are you doing?"
+    },
+    {
+        "id": 188,
+        "text": "Tori, it's not just about that, okay?",
+        "gold": "Exclusionary",
+        "context2": "I don't know. Easy for her to take the moral high ground when all she cares about is saving her father's ass.",
+        "context5": "Beasts? Like me? Like Vincent? Do you agree with this? I don't know. Easy for her to take the moral high ground when all she cares about is saving her father's ass."
+    },
+    {
+        "id": 189,
+        "text": "I'm just adjusting, that's all.",
+        "gold": "Unelaboratory",
+        "context2": "\"Vernacular window proportions\"? Well, what else do you want me to say?",
+        "context5": "We've exploited the vernacular window proportions with balconies to the courtyard, so we need images of that for the brochure. Also we need to look at the sustainable design features... What? \"Vernacular window proportions\"? Well, what else do you want me to say?"
+    },
+    {
+        "id": 190,
+        "text": "And we walked up and down that beach, just enjoying ourselves.",
+        "gold": "Unelaboratory",
+        "context2": "\" Let's get the hell outta here, Katie. \" And we took the \" Q \" train, and we went up to Coney Island.",
+        "context5": "We, uh, we had a reception at our place after my mom's funeral, and... it was miserable. I was miserable, and my dad... Took my hand and he said, uh, \" Let's get the hell outta here, Katie. \" And we took the \" Q \" train, and we went up to Coney Island."
+    },
+    {
+        "id": 191,
+        "text": "I just kept reading all of his emails, and I knew I had to come back.",
+        "gold": "Unexplanatory",
+        "context2": "What if I told you my dream didn't go sideways? Six weeks away can focus a girl.",
+        "context5": "- I didn't mean to hurt him. - I know. It's just that when your dream goes sideways, it doesn't mean you can come back and expect everything to be like it was before. What if I told you my dream didn't go sideways? Six weeks away can focus a girl."
+    },
+    {
+        "id": 192,
+        "text": "Today just proved what I've always known.",
+        "gold": "Unelaboratory",
+        "context2": "Better hope I don't talk in my sleep. You won't.",
+        "context5": "And what secret would that be? You'd do anything to protect your sister. Well, I know your secret too. Better hope I don't talk in my sleep. You won't."
+    },
+    {
+        "id": 193,
+        "text": "Don't thank me just yet.",
+        "gold": "Temporal",
+        "context2": "In fact, I think I'm your alibi. Well, I'd appreciate that.",
+        "context5": "I can't even imagine what your Facebook page looks like. You think I killed her? [ inhales ] No. In fact, I think I'm your alibi. Well, I'd appreciate that."
+    },
+    {
+        "id": 194,
+        "text": "If she just channels that all in the right direction, she is going to be a hell of a- -",
+        "gold": "Exclusionary",
+        "context2": "And sometimes, completely unreasonable. But she's got a heart of gold.",
+        "context5": "One minute, she's a girl. And one minute, she's a won. She's totally unpredtable. And sometimes, completely unreasonable. But she's got a heart of gold."
+    },
+    {
+        "id": 195,
+        "text": "Just... glad you're here.",
+        "gold": "Unelaboratory",
+        "context2": "What \" what \"? What?",
+        "context5": "Do not even know what to make for breakfast. I do not know what you're making for me you breakfast! What? What \" what \"? What?"
+    },
+    {
+        "id": 196,
+        "text": "I just rang the doorbell.",
+        "gold": "Temporal",
+        "context2": "So begins the report of Investigator A.J. Vespucci into case number 135276. I'm not sure about that number.",
+        "context5": "Enjoy your afternoon. - Yes. - Yeah. All right. So begins the report of Investigator A.J. Vespucci into case number 135276. I'm not sure about that number."
+    },
+    {
+        "id": 197,
+        "text": "We got married in just one day.",
+        "gold": "Exclusionary",
+        "context2": "- For me it's like we're already married. - For me too.",
+        "context5": "- Here, it's a memento. - But.. they're gonna put you in jail. That's ok, I'll have time to think about you. - For me it's like we're already married. - For me too."
+    },
+    {
+        "id": 198,
+        "text": "There's too many... ( doorbell jingles ) Micki, you're overreacting. I'm sure Ryan's gonna be just fine.",
+        "gold": "Emphatic",
+        "context2": "Johnny, you're not listening to me. It's not just that he was knocked unconscious.",
+        "context5": "( sniffles ) No! MICKI : Johnny, you're not listening to me. It's not just that he was knocked unconscious."
+    },
+    {
+        "id": 199,
+        "text": "Simply enamel the soles and a man would just... Just like that.",
+        "gold": "Unexplanatory",
+        "context2": "For instance... cavorite trays and boots. Boots! Yes, of course!",
+        "context5": "- Now you're talking. Don't know why he wants it so hot anyhow. Let them see it for themselves, use it. For instance... cavorite trays and boots. Boots! Yes, of course!"
+    },
+    {
+        "id": 200,
+        "text": "Just gone 11 last night.",
+        "gold": "Temporal",
+        "context2": "Tell me it's not the bairn. Right, OK, Meg, and this was when?",
+        "context5": "Here comes our star witness. Are you here to see DCI Stanhope? Good grief! Tell me it's not the bairn. Right, OK, Meg, and this was when?"
+    },
+    {
+        "id": 201,
+        "text": "I just get so nervous every time I...",
+        "gold": "Emphatic",
+        "context2": "I... I'm a little, um,",
+        "context5": "- How are... hi. How are... you look lovely today. Oh, you know, you're very sweet. I... I'm a little, um,"
+    },
+    {
+        "id": 202,
+        "text": "( crow caws ) one just landed on my hood.",
+        "gold": "Temporal",
+        "context2": "How much does a crow weigh? Decent size : 1.2 pounds. Why?",
+        "context5": "The situation is under control! ( clacking ) Sylvester, you're into bird-watching- - How much does a crow weigh? Decent size : 1.2 pounds. Why?"
+    },
+    {
+        "id": 203,
+        "text": "I'd just like to stay at home for a few days.",
+        "gold": "Exclusionary",
+        "context2": "You know we're always struggling to make ends meet. I'm not asking for money.",
+        "context5": "- I know why you came? - You know I came to ask a favor. I wish your visit had no other motive. You know we're always struggling to make ends meet. I'm not asking for money."
+    },
+    {
+        "id": 204,
+        "text": "I just saw Norma.",
+        "gold": "Temporal",
+        "context2": "Black four on that five. And this is why.",
+        "context5": "Tears. Where have you been? You know I hate playing solitaire alone. Black four on that five. And this is why."
+    },
+    {
+        "id": 205,
+        "text": "Nothing just happens.",
+        "gold": "Unexplanatory",
+        "context2": "You're my best friend. It just happened.",
+        "context5": "Why are you sorry, huh? I know it was you. We didn't mean to. You're my best friend. It just happened."
+    },
+    {
+        "id": 206,
+        "text": "Just a little tough to get you riled up.",
+        "gold": "Unexplanatory",
+        "context2": "I mean, you Irish and all. You never lose your temper.",
+        "context5": "You didn't like the idea of having an Irish girl on your team. Yeah. Can you blame me? All right, easy, easy. I mean, you Irish and all. You never lose your temper."
+    },
+    {
+        "id": 207,
+        "text": "Steve just doesn't understand that.",
+        "gold": "Emphatic",
+        "context2": "You know, funny enough, Larry's the reason I go home. I don't want to leave him alone with my mother.",
+        "context5": "Why? What for? If you ever need your own space, or you just want to get away from Larry or Steve, it's there for you. Thank you. You know, funny enough, Larry's the reason I go home. I don't want to leave him alone with my mother."
+    },
+    {
+        "id": 208,
+        "text": "They just touched down at Medplex Metro ahead of schedule.",
+        "gold": "Temporal",
+        "context2": "Good times. Play messages, last to first. CHARLIE:",
+        "context5": "No. I mean, thanks. You know what I mean. Good times. Play messages, last to first. CHARLIE:"
+    },
+    {
+        "id": 209,
+        "text": "Just so. You're too kind.",
+        "gold": "Emphatic",
+        "context2": "I must say, Hannibal, speaking for the rest of the herd... I'm sorry, for the Symphony Board, that these little soirees of yours are always the highlight of our year.",
+        "context5": "\" a true hog of Epicurus' herd. \" And that we find you cribbing lines from Horace, as well. Well done, John. I must say, Hannibal, speaking for the rest of the herd... I'm sorry, for the Symphony Board, that these little soirees of yours are always the highlight of our year."
+    },
+    {
+        "id": 210,
+        "text": "- I just looked in.",
+        "gold": "Temporal",
+        "context2": "Ah, there you are, my dear. - How's Mr. Camford?",
+        "context5": "Reginald Busby-Pelham? Of Pentwithwithwith... with. Oh, crikey. Ah, there you are, my dear. - How's Mr. Camford?"
+    },
+    {
+        "id": 211,
+        "text": "If you had such powers, just imagine what kind of a violinist you'd be by now.",
+        "gold": "Emphatic",
+        "context2": "- I promise. - How would you know? Well, I don't think you're that powerful. You know?",
+        "context5": "Heaven. I told him to drop dead. Well, Justin didn't die because you said that. - I promise. - How would you know? Well, I don't think you're that powerful. You know?"
+    },
+    {
+        "id": 212,
+        "text": "Just as things then in Sankt Petersburg developed for him, he has before Catherine have fallen to her knees.",
+        "gold": "Temporal",
+        "context2": "Who would have the hero the Battle of Cesme in the rags of a beggar to recognize succeeded? No, he waited until the spring.",
+        "context5": "No. Not Varvakis. He did not go straight to the palace. Who would have the hero the Battle of Cesme in the rags of a beggar to recognize succeeded? No, he waited until the spring."
+    },
+    {
+        "id": 213,
+        "text": "And just so everyone knows, I want a quiet day.",
+        "gold": "Unelaboratory",
+        "context2": "Happy birthday to you. Thank you.",
+        "context5": "There's the birthday boy! 65 candles on one cake. This is a big day for you... and for the astronauts who can see it from space. Happy birthday to you. Thank you."
+    },
+    {
+        "id": 214,
+        "text": "And my two new cats, Clean and Sober, just think I'm tops.",
+        "gold": "Emphatic",
+        "context2": "One morning, I woke up naked with three Persians high-fiving each other on the way out of my bedroom. But now that I've joined the program, I'm a whole different person.",
+        "context5": "Hi, Jenny. Before I found AA, my ex-boyfriend and I used to get drunk and party all night. I missed work half the time. One morning, I woke up naked with three Persians high-fiving each other on the way out of my bedroom. But now that I've joined the program, I'm a whole different person."
+    },
+    {
+        "id": 215,
+        "text": "Did you just get here?",
+        "gold": "Temporal",
+        "context2": "Really, Lloyd? So we go back to arresting Cliff, trying to get him to talk.",
+        "context5": "There's no real way of knowing who's next. So we should just give up? Let Virgil finish his job and he's in the wind? Really, Lloyd? So we go back to arresting Cliff, trying to get him to talk."
+    },
+    {
+        "id": 216,
+        "text": "You just made my little black book.",
+        "gold": "Temporal",
+        "context2": "- Exactly. And we're grownups, so we don't argue over seats. Why don't we go over there.",
+        "context5": "So let's find a chair. There are plenty over there. - He's in my seat, though. - Exactly. And we're grownups, so we don't argue over seats. Why don't we go over there."
+    },
+    {
+        "id": 217,
+        "text": "I know you do this just to make me stronger.",
+        "gold": "Unexplanatory",
+        "context2": "- Go on. - Fuck off. OK?",
+        "context5": "I told Jason about the Haggleblass and he's begun his conversion. Haven't you, buddy? Can you give us a minute, Jason? - Go on. - Fuck off. OK?"
+    },
+    {
+        "id": 218,
+        "text": "Let him find someone who does because this is just so... wrong!",
+        "gold": "Emphatic",
+        "context2": "I don't wanna talk to you about this anymore. Okay, listen, if you don't wanna be with Dean anymore, cut him loose.",
+        "context5": "Well, knowing this has apparently not stopped you from dragging his heart all over this town. - Not fair! - Yes, fair, the fairest, the Snow White of fair. I don't wanna talk to you about this anymore. Okay, listen, if you don't wanna be with Dean anymore, cut him loose."
+    },
+    {
+        "id": 219,
+        "text": "I'm gonna need to take a minute just so that I can center myself, if you will.",
+        "gold": "Unexplanatory",
+        "context2": "Well done there. That's how we do things.",
+        "context5": "The patient is now fully under. Cool, cool. Good, good. Well done there. That's how we do things."
+    },
+    {
+        "id": 220,
+        "text": "Why don't you just share your bathroom?",
+        "gold": "Exclusionary",
+        "context2": "It's too small for her. It's too small for Malibu Barbie.",
+        "context5": "I've gotta finish marking up this contract, and then I want to get Grace some cool shelves, or something for her bathroom. She hates it. Of course, she hates it. It's too small for her. It's too small for Malibu Barbie."
+    },
+    {
+        "id": 221,
+        "text": "He just took off with Sarah.",
+        "gold": "Temporal",
+        "context2": "You okay? - I'm fine, but Chuck isn't.",
+        "context5": "Chuck. What if it was Devon? - Hey, where are you? You okay? - I'm fine, but Chuck isn't."
+    },
+    {
+        "id": 222,
+        "text": "If you guys need anything else, just give me a holler.",
+        "gold": "Unelaboratory",
+        "context2": "She's cheating on me. What?",
+        "context5": "She's a good girl. How's your wife? Great. She's cheating on me. What?"
+    },
+    {
+        "id": 223,
+        "text": "You just stay away from me, you psychopath.",
+        "gold": "Unelaboratory",
+        "context2": "! Me? What did I do? You're the one going all Michael Hutchence over here.",
+        "context5": "Whoa, what the hell happened to you? Easy, easy, man, easy. What the hell is your problem?! Me? What did I do? You're the one going all Michael Hutchence over here."
+    },
+    {
+        "id": 224,
+        "text": "Thank you, Tony. And I can tell you that this place just won't be the same without you.",
+        "gold": "Emphatic",
+        "context2": "Yes, Tony, it is. Well, Control, may I take this opportunity of saying how much I've enjoyed working for you, and wish you the best of luck in all your future spying?",
+        "context5": "In fact, it's one of the hardest things I've ever had to do in all my years as Head of the Secret Service. I certainly don't envy you having to pass on a bit of news like the one you've just passed on to me. That's very understanding of you, Tony. Well, Control, I suppose that's that, then. Yes, Tony, it is. Well, Control, may I take this opportunity of saying how much I've enjoyed working for you, and wish you the best of luck in all your future spying?"
+    },
+    {
+        "id": 225,
+        "text": "I'm not having any right now but just give me some time.",
+        "gold": "Exclusionary",
+        "context2": "- Have heavy thoughts? Oh, yeah, sure. All the time.",
+        "context5": "- Absolutely. Yeah. - Do you? - What? - Have heavy thoughts? Oh, yeah, sure. All the time."
+    },
+    {
+        "id": 226,
+        "text": "What were you doing Just create problems.",
+        "gold": "Unelaboratory",
+        "context2": "You can disembark beyond. How well I thought.",
+        "context5": "- I will not jump. What was that? No... very thin. You can disembark beyond. How well I thought."
+    },
+    {
+        "id": 227,
+        "text": "- No, I just ate, thanks.",
+        "gold": "Temporal",
+        "context2": "He was gonna hijack a plane, but he didn't wanna use his miles. - You want a sandwich?",
+        "context5": "I got a little time. Why not? \" Vy not, \" he says. Did you hear the one about the Jewish terrorist? He was gonna hijack a plane, but he didn't wanna use his miles. - You want a sandwich?"
+    },
+    {
+        "id": 228,
+        "text": "Just friends, Ari, just friends.",
+        "gold": "Exclusionary",
+        "context2": "- I already got it. E, you are really officially keeping this unofficial.",
+        "context5": "- No. - No dessert. - All right, just the check then. - I already got it. E, you are really officially keeping this unofficial."
+    },
+    {
+        "id": 229,
+        "text": "I just... I had this...",
+        "gold": "Temporal",
+        "context2": "I can tell. No, I...",
+        "context5": "Look who you're talking to, Fray. Come on. Something's up. I can tell. No, I..."
+    },
+    {
+        "id": 230,
+        "text": "I can just go?",
+        "gold": "Emphatic",
+        "context2": "Go and try to figure out the way to stay. - What?",
+        "context5": "- Yes. - But i don't want audrey to die. - Okay. Go and try to figure out the way to stay. - What?"
+    },
+    {
+        "id": 231,
+        "text": "S-same way they just decided",
+        "gold": "Unexplanatory",
+        "context2": "You're like all the rest of them. You just decided I killed Amber.",
+        "context5": "What's that gonna prove? You know what? Don't put this on me. You're like all the rest of them. You just decided I killed Amber."
+    },
+    {
+        "id": 232,
+        "text": "You just get away now.",
+        "gold": "Unexplanatory",
+        "context2": "- I knew they'd come. I'm Dr. Isabel cho, chief medical officer of the USG O'Bannon.",
+        "context5": "This is Abraxis Rescue Team. Identify yourselves. - Thank God you're here. - I knew they'd come. I'm Dr. Isabel cho, chief medical officer of the USG O'Bannon."
+    },
+    {
+        "id": 233,
+        "text": "- Just a friendly warning.",
+        "gold": "Exclusionary",
+        "context2": "Or, at least, you used to be. I'm just here to tell you that maybe you don't want to go by the sisters' house tomorrow.",
+        "context5": "Besides, I would have sensed if anybody was coming. - You didn't sense me. - You're an Elder. Or, at least, you used to be. I'm just here to tell you that maybe you don't want to go by the sisters' house tomorrow."
+    },
+    {
+        "id": 234,
+        "text": "It's just two bucks.",
+        "gold": "Exclusionary",
+        "context2": "Hey, you know what would be really cool? If you would do what he's doing preemptively.",
+        "context5": "Can I order while he's doing this? Yeah. Okay. Hey, you know what would be really cool? If you would do what he's doing preemptively."
+    },
+    {
+        "id": 235,
+        "text": "Let's just... We love each other...",
+        "gold": "Unelaboratory",
+        "context2": "I live right there. How am I gonna show my face in this neighbourhood if you don't marry me now? Don't say that right now.",
+        "context5": "It's all or nothing with Fryburg, okay? All or nothing! You take all of me or you take none of me. I live right there. How am I gonna show my face in this neighbourhood if you don't marry me now? Don't say that right now."
+    },
+    {
+        "id": 236,
+        "text": "I, uh, just completed my autopsy on Mr. Wyatt here.",
+        "gold": "Temporal",
+        "context2": "Dr. Ryerson, what did you find? Well...",
+        "context5": "You know Reddington sent her to Warsaw. There has to be something going on there. Sounds like someone's a little jealous Uncle Red's got a new crush. Dr. Ryerson, what did you find? Well..."
+    },
+    {
+        "id": 237,
+        "text": "I just wish that I was normal.",
+        "gold": "Unexplanatory",
+        "context2": "You lost me at Judy Garland fixing a car. Julie, I'm always gonna be different.",
+        "context5": "Julie, women bitch about construction workers yelling at them. Jesus, do you know how nice it would be if just some hard hat would tell me what a nice ass I had, which is pretty fucking nice, I might add? So I can't fix a car, but I sure as hell don't have to dress up like Judy Garland either. You lost me at Judy Garland fixing a car. Julie, I'm always gonna be different."
+    },
+    {
+        "id": 238,
+        "text": "- What'd you just say to me?",
+        "gold": "Temporal",
+        "context2": "Sam will have to call your son to come and get you just like he always does, even though everybody knows it humiliates him to death. Ain't you ashamed of yourself?",
+        "context5": "You listen to me, Jane Bodenhouse. You're already drunk as a skunk. Ain't no man in here gonna wanna take you home. Sam will have to call your son to come and get you just like he always does, even though everybody knows it humiliates him to death. Ain't you ashamed of yourself?"
+    }
+]
