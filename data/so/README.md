@@ -21,7 +21,7 @@ Raw data obtained from:
 
 ### test split (20% fraction, used in our setting)
 
-| | aan-abstract 0.3 | arxiv-abstracts 0.005 | nips-abs 1.0 | nsf 0.04 | roc 0.09 | sind-captions 0.16 | wiki-movies 0.25 |
+| | aan-abstract 0.3 | arxiv-abstracts 0.05 | nips-abs 1.0 | nsf 0.08 | roc 0.09 | sind-captions 0.16 | wiki-movies 0.25 |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | nb examples | 806 | 898 | 377 | 814 | 883 | 808 | 836 |
 | avg sentences | 5.25 | 5.61 | 6.40 | 10.26 | 5.00 | 4.88 | 13.67 |
