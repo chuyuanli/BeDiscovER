@@ -1,8 +1,8 @@
 ## Dataset source
 
-- STAC: https://aclanthology.org/L16-1432/
-- Molweni: https://aclanthology.org/2020.coling-main.238/
-- MSDC: https://aclanthology.org/2024.lrec-main.444/
+- STAC: https://aclanthology.org/L16-1432/, CC BY-NC-SA 4.0
+- Molweni: https://aclanthology.org/2020.coling-main.238/, CC-BY-4.0
+- MSDC: https://aclanthology.org/2024.lrec-main.444/, CC BY-NC 4.0
 
 
 ## Data processing

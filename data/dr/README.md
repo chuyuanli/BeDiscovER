@@ -1,8 +1,9 @@
 ## Dataset source
 
-- DISRPT25 shared task on discourse relation recognition: https://aclanthology.org/2025.disrpt-1.1/
-- Website: https://sites.google.com/view/disrpt2025/
-- Github: https://github.com/disrpt/sharedtask2025/tree/master
+- DISRPT25 shared task on discourse relation recognition 
+  - Paper: https://aclanthology.org/2025.disrpt-1.1/
+  - Website: https://sites.google.com/view/disrpt2025/
+  - Github: https://github.com/disrpt/sharedtask2025/tree/master
 
 
 ## Data pre-processing
