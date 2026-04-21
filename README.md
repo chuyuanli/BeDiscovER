@@ -56,6 +56,8 @@ Notes:
 - For `so`, data is stored in `.jsonl` format.
 - For `tr`, `dm`, and `ddp`, data is stored in `.json` format.
 - For `dr`, the loader reads processed DISRPT 2025 data from `data/dr/disrpt25/`. When loading `dr` with `--dataset_names disrpt25`, the script expands this to all supported DISRPT test sets automatically.
+- [TODO] We also plan to mirror the benchmark datasets on Hugging Face shortly. 
+
 
 ## Task Directories
 
@@ -64,15 +66,6 @@ Notes:
 - [data/dr/README.md](data/dr/README.md): discourse relation recognition
 - [data/so/README.md](data/so/README.md): sentence ordering
 - [data/tr/README.md](data/tr/README.md): temporal reasoning
-
-## Data Availability
-
-Some source datasets have their own redistribution constraints. See the
-task-specific READMEs for details, especially [data/dr/README.md](data/dr/README.md)
-for DISRPT datasets that cannot be redistributed directly.
-
-
-[TODO] We also plan to mirror the benchmark datasets on Hugging Face shortly. 
 
 
 ## Licensing
