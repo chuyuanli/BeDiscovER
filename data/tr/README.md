@@ -3,7 +3,8 @@
 - TimeBank-Dense: 
   - paper: https://aclanthology.org/P14-2082.pdf
   - github: https://github.com/muk343/TimeBank-dense
-- TDDiscourse: 
+  - data: https://www.usna.edu/Users/cs/nchamber/caevo/#corpus
+- TDDiscourse, CC-BY-4.0
     - paper: https://aclanthology.org/W19-5929.pdf
     - github: https://github.com/aakanksha19/TDDiscourse
 - Test of Time (arithmetic part): ToT-arith, CC-BY-4.0
