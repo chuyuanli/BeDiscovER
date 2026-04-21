@@ -1,5 +1,10 @@
 ## Dataset source
 
+Licensing note: redistributed data files in this directory should be treated
+under the repository-level data notice in [LICENSE](../../LICENSE), namely
+**CC BY-NC-SA 4.0**. Original source-specific notices listed below still apply
+where required.
+
 - STAC: https://aclanthology.org/L16-1432/, CC BY-NC-SA 4.0
 - Molweni: https://aclanthology.org/2020.coling-main.238/, CC-BY-4.0
 - MSDC: https://aclanthology.org/2024.lrec-main.444/, CC BY-NC 4.0

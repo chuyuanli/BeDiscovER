@@ -1,5 +1,10 @@
 ## Dataset source
 
+Licensing note: redistributed data files in this directory should be treated
+under the repository-level data notice in [LICENSE](../../LICENSE), namely
+**CC BY-NC-SA 4.0**. Original source-specific notices listed below still apply
+where required.
+
 - Otherwise: 
   - https://aclanthology.org/2025.codi-1.7/, MIT license
   - 294 human-annotated passages that contains "otherwise" at the begining of Arg2. The template looks like: `ARG1. Otherwise, ARG2.`. https://aclanthology.org/2025.codi-1.7/, 

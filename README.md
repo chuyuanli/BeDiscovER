@@ -34,7 +34,8 @@ This repository provides the processed evaluation data used in the paper, along 
 └── README.md
 ```
 
-Each task directory contains its own `README.md` with dataset-specific details, sources, and preprocessing notes.
+Each task directory contains its own `README.md` with dataset-specific details,
+sources, preprocessing notes, and any source-specific licensing notices.
 
 ## Loading the Data
 
@@ -66,10 +67,19 @@ Notes:
 
 ## Data Availability
 
-Some source datasets have their own redistribution constraints. See the task-specific READMEs for details, especially [data/dr/README.md](data/dr/README.md) for DISRPT datasets that cannot be redistributed directly.
+Some source datasets have their own redistribution constraints. See the
+task-specific READMEs for details, especially [data/dr/README.md](data/dr/README.md)
+for DISRPT datasets that cannot be redistributed directly.
 
 
 [TODO] We also plan to mirror the benchmark datasets on Hugging Face shortly. 
+
+
+## Licensing
+
+- Repository code is licensed under Apache 2.0 unless stated otherwise.
+- Redistributed files under `data/` should be treated under the repository's
+  unified data notice, **CC BY-NC-SA 4.0**. See [LICENSE](LICENSE).
 
 
 ## Citation
@@ -94,4 +104,3 @@ Please kindly cite our research if you use this benchmark:
     ISBN = "979-8-89176-380-7"
 }
 ```
-

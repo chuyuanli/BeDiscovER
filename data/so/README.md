@@ -1,4 +1,10 @@
 ## Dataset source
+
+Licensing note: redistributed data files in this directory should be treated
+under the repository-level data notice in [LICENSE](../../LICENSE), namely
+**CC BY-NC-SA 4.0**. Original source-specific notices listed below still apply
+where required.
+
 Raw data obtained from:
 - [arXiv](https://drive.google.com/drive/folders/0B-mnK8kniGAiNVB6WTQ4bmdyamc)
 - [Wiki Movie Plots](https://www.kaggle.com/jrobischon/wikipedia-movie-plots)

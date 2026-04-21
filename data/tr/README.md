@@ -1,5 +1,10 @@
 ## Dataset source
 
+Licensing note: redistributed data files in this directory should be treated
+under the repository-level data notice in [LICENSE](../../LICENSE), namely
+**CC BY-NC-SA 4.0**. Original source-specific notices listed below still apply
+where required.
+
 - TimeBank-Dense: 
   - paper: https://aclanthology.org/P14-2082.pdf
   - github: https://github.com/muk343/TimeBank-dense

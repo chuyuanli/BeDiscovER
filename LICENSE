@@ -1,25 +1,24 @@
 ## Licensing Notice
 
-This repository contains code, documentation, and benchmark data derived from
-multiple sources. Different parts of the repository are therefore subject to
-different license terms.
+This repository contains both source code and benchmark data. Those two parts
+must be treated separately.
 
-### 1. Repository code
+### 1. Source code
 
 Unless stated otherwise in a specific file or subdirectory, the source code in
 this repository is licensed under the **Apache License 2.0**.
 
-### 2. Benchmark data
+### 2. Data under `data/`
 
-Files under `data/` are aggregated from multiple upstream datasets, and each subset 
-may retain its original license and any associated use restrictions, including
-non-commercial-only terms.
+To provide one clear repository-level rule for the data portion of this repo,
+all redistributed files under `data/` should be treated as subject to
+**CC BY-NC-SA 4.0** for purposes of use and redistribution through this
+repository.
 
-For the applicable terms of a given subset, see the corresponding
-`data/{task}/README.md` file and, where relevant, the original upstream source.
+Some datasets in `data/` originate from third-party sources and may carry
+additional attribution, notice, or access requirements from the original
+providers. Those upstream notices are documented in the corresponding
+`data/{task}/README.md` files and remain applicable where required.
 
-### 3. Redistribution and use
+Datasets that we are not permitted to redistribute are not included here.
 
-By using or redistributing material from this repository, you are responsible
-for complying with the license terms that apply to the specific code, dataset,
-or derived artifact you use.
