@@ -1,9 +1,8 @@
 ## Dataset source
 
-Licensing note: redistributed data files in this directory should be treated
-under the repository-level data notice in [LICENSE](../../LICENSE), namely
-**CC BY-NC-SA 4.0**. Original source-specific notices listed below still apply
-where required.
+Licensing note: redistributed data files in this repository for the `ddp` task
+should be treated under **CC BY-NC 4.0**. Individual source datasets remain
+subject to their original upstream notices.
 
 - STAC: https://aclanthology.org/L16-1432/, CC BY-NC-SA 4.0
 - Molweni: https://aclanthology.org/2020.coling-main.238/, CC-BY-4.0

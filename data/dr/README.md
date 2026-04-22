@@ -1,6 +1,10 @@
 ## Dataset source
 
-Licensing note: redistributed data files in this repository should be treated under the repository-level data notice in [LICENSE](../../LICENSE), namely **CC BY-NC-SA 4.0**. Original dataset-specific source notices still apply where required. Our post-processing code `read_raw.py` is licensed under the **Apache License 2.0**.
+Licensing note: redistributed data files in this repository for the `dr` task
+should be treated under **CC BY-NC 4.0**. Individual source datasets remain
+subject to their original upstream notices.
+
+Our post-processing code `read_raw.py` is licensed under the **Apache License 2.0**.
 
 - DISRPT25 shared task on discourse relation recognition
   - Website: https://sites.google.com/view/disrpt2025/

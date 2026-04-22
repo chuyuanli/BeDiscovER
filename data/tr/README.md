@@ -1,19 +1,21 @@
 ## Dataset source
 
-Licensing note: redistributed data files in this directory should be treated
-under the repository-level data notice in [LICENSE](../../LICENSE), namely
-**CC BY-NC-SA 4.0**. Original source-specific notices listed below still apply
-where required.
+Licensing note: redistributed data files in this repository for the `tr` task
+should be treated under **CC BY 4.0**. Individual source datasets remain
+subject to their original upstream notices.
 
-- TimeBank-Dense: 
+- TimeBank-Dense:
   - paper: https://aclanthology.org/P14-2082.pdf
   - github: https://github.com/muk343/TimeBank-dense
   - data: https://www.usna.edu/Users/cs/nchamber/caevo/#corpus
-- TDDiscourse, CC-BY-4.0
+  - license: we follow its original copyright text and acknowledgements of developers, see [LICENSE](TBD_LICENSE.md).
+- TDDiscourse
     - paper: https://aclanthology.org/W19-5929.pdf
     - github: https://github.com/aakanksha19/TDDiscourse
-- Test of Time (arithmetic part): ToT-arith, CC-BY-4.0
-    - paper: https://openreview.net/forum?id=44CoQe6VCq
+    - license: CC-BY-4.0
+- Test of Time (arithmetic part): ToT-arith
+    - paper: https://openreview.net/pdf?id=44CoQe6VCq
+    - license: CC-BY-4.0
 
 
 ## Data sizes 

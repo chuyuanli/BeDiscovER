@@ -10,15 +10,15 @@ this repository is licensed under the **Apache License 2.0**.
 
 ### 2. Data under `data/`
 
-To provide one clear repository-level rule for the data portion of this repo,
-all redistributed files under `data/` should be treated as subject to
-**CC BY-NC-SA 4.0** for purposes of use and redistribution through this
-repository.
+To provide one clear task-level rule for the data portion of this repository,
+the redistributed benchmark data should be treated as follows:
+
+- `data/dm`, `data/tr`, and `data/so`: **CC BY 4.0**
+- `data/ddp` and `data/dr`: **CC BY-NC 4.0**
 
 Some datasets in `data/` originate from third-party sources and may carry
-additional attribution, notice, or access requirements from the original
+additional attribution, copyright notice, or access requirements from the original
 providers. Those upstream notices are documented in the corresponding
 `data/{task}/README.md` files and remain applicable where required.
 
 Datasets that we are not permitted to redistribute are not included here.
-

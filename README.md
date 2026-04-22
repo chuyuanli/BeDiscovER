@@ -70,9 +70,12 @@ Notes:
 
 ## Licensing
 
-- Repository code is licensed under Apache 2.0 unless stated otherwise.
-- Redistributed files under `data/` should be treated under the repository's
-  unified data notice, **CC BY-NC-SA 4.0**. See [LICENSE](LICENSE).
+- Repository code is licensed under **Apache 2.0** unless stated otherwise.
+- Redistributed files under `data/` follow task-level notices rather than one
+  unified data license:
+- `dm`, `tr`, and `so`: **CC BY 4.0**
+- `ddp` and `dr`: **CC BY-NC 4.0**
+- See [LICENSE](LICENSE) and each task `README.md` for source-specific details.
 
 
 ## Citation
